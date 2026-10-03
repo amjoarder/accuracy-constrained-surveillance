@@ -1,0 +1,187 @@
+[
+  {
+    "path": "study/results/accuracy/behavior/test/320_fp16/matching_arrays.npz",
+    "original_sha256": "30c25fe89098900d7ca9228cde2783a20dc57e785b9c7849a3cdcd460f4d3765",
+    "published_sha256": "866daaeaa1cc2fed13ee4b73a4449e871acee9f65aa61b74dfa5473d670d101d"
+  },
+  {
+    "path": "study/results/accuracy/behavior/test/320_fp32/matching_arrays.npz",
+    "original_sha256": "3a98b5aede6760e49d7cb899c6660f7dea54b1fe305340737ca3a9d09e07419d",
+    "published_sha256": "ce4ffd062516be00acbcaaa745dea8f43f0c4307fa7fcfa0139c7218167aecc5"
+  },
+  {
+    "path": "study/results/accuracy/behavior/test/480_fp16/matching_arrays.npz",
+    "original_sha256": "f183694bb13bca37a69fbd6d77ccc8321184c5f534c7b4e9a8067e66e8452a21",
+    "published_sha256": "6a852f409e5d271b88280dee216cb441914840ee9274e81c9f370ccec586330b"
+  },
+  {
+    "path": "study/results/accuracy/behavior/test/480_fp32/matching_arrays.npz",
+    "original_sha256": "f6d2e92694b4f87c1966ed78d186f79241fca8c5e755961bf2c98ac5e639e500",
+    "published_sha256": "2ce4a0534ea93e7ea65c5e86aa8a4711a48ec8d8890e084a51889ee73e257ebd"
+  },
+  {
+    "path": "study/results/accuracy/behavior/test/640_fp16/matching_arrays.npz",
+    "original_sha256": "74bd1463b05fa4eb9cd24a8011025db000aec67268443b6d3a8dd9752a200319",
+    "published_sha256": "d3a8bd7fd0d9a68c6cb1ee6eda14ae615cbeea91e9db820bfead56a910f24b70"
+  },
+  {
+    "path": "study/results/accuracy/behavior/test/640_fp32/matching_arrays.npz",
+    "original_sha256": "2c85346992605bd90bd3666fc601c8bd01baf318dbd0de49b053486efa0fe7e6",
+    "published_sha256": "7e3b2aac7204b17956d991ef5715d9d0643a9505b88bfd0c5d3fa6e3f83bc987"
+  },
+  {
+    "path": "study/results/accuracy/behavior/test/640_rect_fp16/matching_arrays.npz",
+    "original_sha256": "f6185a779d3a13b954e3cddf0951136c76185419d237c5329b51b220340665a2",
+    "published_sha256": "7d7986e3b81cad4bdf6d7d7f3a75f088adc59fd723bb8069403d2d6a165b3f4a"
+  },
+  {
+    "path": "study/results/accuracy/behavior/test/640_rect_fp32/matching_arrays.npz",
+    "original_sha256": "b15097ef3e7c9c3c508c9ffd54a39e834910c6d1079fe301641c285553652246",
+    "published_sha256": "4f5ac43c3c4153fc76b169aa9bb1cb5deb4d2fc4fbd1be39ccc8ee63ddfc1c8e"
+  },
+  {
+    "path": "study/results/accuracy/behavior/val/320_fp16/matching_arrays.npz",
+    "original_sha256": "f7ff2618bbc1dc9c7596d82dad9209d6e1b0e8d969457a0598c829de4017cd9d",
+    "published_sha256": "f18c175707dd91582faeb0147273b190b0eeab43619256c7fa3f2ce04ec2978f"
+  },
+  {
+    "path": "study/results/accuracy/behavior/val/320_fp32/matching_arrays.npz",
+    "original_sha256": "6bac7fc47532afd69140901f6e904b24ca2e75307e4b69e86c1f5739688d27cb",
+    "published_sha256": "ef5975b28a7bd6ff30cdcd6ee9b103d5d1d1b5db7d59d7218ef0ded9215275cc"
+  },
+  {
+    "path": "study/results/accuracy/behavior/val/480_fp16/matching_arrays.npz",
+    "original_sha256": "f30b34ee0108d5058bb000d0d18f1624559421f29038346b7e6d71722e2f3336",
+    "published_sha256": "35f2ea563de869d82240f758a33d29eadad7289c75fda5dbdf24c82abe8eb680"
+  },
+  {
+    "path": "study/results/accuracy/behavior/val/480_fp32/matching_arrays.npz",
+    "original_sha256": "11ef28f2bdfea0e250bc87c53599690791f19649f142b06527dc1d00f0f4ef38",
+    "published_sha256": "84e89384ad9833e013e2ed166c97d05659d8078045cc2852d290dbef350f1557"
+  },
+  {
+    "path": "study/results/accuracy/behavior/val/640_fp16/matching_arrays.npz",
+    "original_sha256": "89f1b2c1b361d51d00d13860a381f86fd59b11f6dcaeb5b272e86c09987b4fa0",
+    "published_sha256": "1c6d5ad7eb446bf2404db3c4603b572a6eed9166823ed439ee96ed7be3ee011b"
+  },
+  {
+    "path": "study/results/accuracy/behavior/val/640_fp32/matching_arrays.npz",
+    "original_sha256": "a399bb350294b834aaf68b32476a434e6cbd4bff9b4e2bf56b42c4d094060ae3",
+    "published_sha256": "b00e714bbf5973d1f849bb0067638b03fc8a630fd781ec8d58745921e5a52b87"
+  },
+  {
+    "path": "study/results/accuracy/behavior/val/640_rect_fp16/matching_arrays.npz",
+    "original_sha256": "d82e62ece826e7c4008ddce0a7e772016d6cdab6ed48841109555ff8ff6a857d",
+    "published_sha256": "d93d615f57d50a14a3797ae7d2247af2b6d56a276455cd3cfb5f19ce0a14b453"
+  },
+  {
+    "path": "study/results/accuracy/behavior/val/640_rect_fp32/matching_arrays.npz",
+    "original_sha256": "43a47d7833a2bdfe3ca47c1335b591a010ba8082207418a4850e6524f00eef0b",
+    "published_sha256": "c9d3fa68cb30bc46f58d00f4b9aa2a9840db0d9696010d012b4605c6f67c6f5f"
+  },
+  {
+    "path": "study/results/accuracy/object/test/320_fp16/matching_arrays.npz",
+    "original_sha256": "b2227a6e9a5e5d157f254d7f43a8044716566dd6f6e897e786d464572c36205f",
+    "published_sha256": "ab1ba50a160b5a75c6a3b72696db58edda48db51e63f943a9b7dbdb53c3ae1a0"
+  },
+  {
+    "path": "study/results/accuracy/object/test/320_fp32/matching_arrays.npz",
+    "original_sha256": "ebb92c4a2916ef35e1f91676f060889da862b2dc10c76270f22cbab12d982c57",
+    "published_sha256": "d1bf855111e548daf6d12f0b2077ab523d7b23d035f83552b8be14ce286f2dc2"
+  },
+  {
+    "path": "study/results/accuracy/object/test/480_fp16/matching_arrays.npz",
+    "original_sha256": "0597ff17ee70ee63f50647edfb848695954a56027eba56a0d3adab973a75e591",
+    "published_sha256": "88bab537526ac83532b8e68deaf223736a3eb01d6956985d288dc005f0953463"
+  },
+  {
+    "path": "study/results/accuracy/object/test/480_fp32/matching_arrays.npz",
+    "original_sha256": "ee13d95f53ec09c5748af8fb566e006841be188625a44170ed7aab7d7e74a676",
+    "published_sha256": "9cbe5d192d31e51482fc583be5e5d54dcf6043161e147c0179353153f0e66e44"
+  },
+  {
+    "path": "study/results/accuracy/object/test/640_fp16/matching_arrays.npz",
+    "original_sha256": "0ca18f096f438c29aebc86b9029438bf124adaec320232628b0a05041991eb22",
+    "published_sha256": "f07f66984eed50d8e8ff8405e8e5381a13331c1d282b9dbfa5ed9d51efe642ff"
+  },
+  {
+    "path": "study/results/accuracy/object/test/640_fp32/matching_arrays.npz",
+    "original_sha256": "c875779a23473f9d113971ae85e033b8ea1756b702ac35a9bcaf184bade1d1c1",
+    "published_sha256": "d16924ade3f9bcca4f26224864bf87730e22ecf48d854c96355862ee6a856ccd"
+  },
+  {
+    "path": "study/results/accuracy/object/test/640_rect_fp16/matching_arrays.npz",
+    "original_sha256": "6c7f64af65d8d2a77780eb1e9f24276f439f5488ceee27e47cb0768971af8754",
+    "published_sha256": "48f774105304bf3dad6a90461e2e8f4009377a8b00997c027f1c49cbd732c332"
+  },
+  {
+    "path": "study/results/accuracy/object/test/640_rect_fp32/matching_arrays.npz",
+    "original_sha256": "e1e86fd7cae5a780d18fbde2bda2dd25c17b760a4c8870f4e47f9594bb4307dc",
+    "published_sha256": "664ab2d8e38ac33e2c63b437804993152c4aa048f5d59f4cde1386b0a2e2ab5e"
+  },
+  {
+    "path": "study/results/accuracy/object/val/320_fp16/matching_arrays.npz",
+    "original_sha256": "cfba85f81a886890dc6312f558d354d9dac7a12b5951a0a1f72efc10a0d91f34",
+    "published_sha256": "6addffd6a381d98575c8c4ea301f64e80c39675a0a2fe0b968b08783471087e5"
+  },
+  {
+    "path": "study/results/accuracy/object/val/320_fp32/matching_arrays.npz",
+    "original_sha256": "9a97c8de5445fe14c4d23df36a0f006263d49b69604c04abf009044b84527e05",
+    "published_sha256": "7e92c4ba6cccc45de0ec1af2cc958e7a21d839aacb8f3b327bb069b77bc4b8a5"
+  },
+  {
+    "path": "study/results/accuracy/object/val/480_fp16/matching_arrays.npz",
+    "original_sha256": "ca22b012e2b0e828b1d11183a09c385193b1ad7c585f0c5ee92e1bb9982f83d2",
+    "published_sha256": "2c4ddb0e7d3646744686f384c015c684a6c3200d3cd187e59743666c87a83aa2"
+  },
+  {
+    "path": "study/results/accuracy/object/val/480_fp32/matching_arrays.npz",
+    "original_sha256": "ecfbeb9604e0a786bddcc93b1b31d84f97239d685bcbfec336a7678d63633271",
+    "published_sha256": "67c63bf225c44adf62e94b696f7f9cef0e9176011b317b4f47f1f9d6ada7f417"
+  },
+  {
+    "path": "study/results/accuracy/object/val/640_fp16/matching_arrays.npz",
+    "original_sha256": "669ef52620e589a2fbabc2d11eb1a4a1163964982e01abfe46a1a2c28a6d3a32",
+    "published_sha256": "a3c40e2cb1ea91bb945a5d7066482e52933dba7e25578edcb21e61ac84df907c"
+  },
+  {
+    "path": "study/results/accuracy/object/val/640_fp32/matching_arrays.npz",
+    "original_sha256": "bd359e51fcf196d7463385159698e3720368812586048e65e0a4b6dd46e7dde3",
+    "published_sha256": "f9f5bdc196cbaf34305457709f3c54e7fc6c7f29998d3693a3df5b5757cc3c7d"
+  },
+  {
+    "path": "study/results/accuracy/object/val/640_rect_fp16/matching_arrays.npz",
+    "original_sha256": "c5e61dec61af4319fb32e764c8c7da48c3e22fa0b05b13f641425562b777a190",
+    "published_sha256": "1d92160e3d65deec34b7467fa69897bbbcd7a68937931aa318a90e09bd312405"
+  },
+  {
+    "path": "study/results/accuracy/object/val/640_rect_fp32/matching_arrays.npz",
+    "original_sha256": "3f6d9d9812cdd4709cc479443a129383fb97ccf56b125048b11407514b66f62b",
+    "published_sha256": "4d6a31e2a7f82ebaf521f4bdc47efaf067efb46469e394f85b3d8a00c92c9e8f"
+  },
+  {
+    "path": "study/results/predictor_check/behavior/reference/matching_arrays.npz",
+    "original_sha256": "2c85346992605bd90bd3666fc601c8bd01baf318dbd0de49b053486efa0fe7e6",
+    "published_sha256": "7e3b2aac7204b17956d991ef5715d9d0643a9505b88bfd0c5d3fa6e3f83bc987"
+  },
+  {
+    "path": "study/results/predictor_check/behavior/selected/matching_arrays.npz",
+    "original_sha256": "2c85346992605bd90bd3666fc601c8bd01baf318dbd0de49b053486efa0fe7e6",
+    "published_sha256": "7e3b2aac7204b17956d991ef5715d9d0643a9505b88bfd0c5d3fa6e3f83bc987"
+  },
+  {
+    "path": "study/results/predictor_check/object/reference/matching_arrays.npz",
+    "original_sha256": "6b3eaf57b342e602f8396d9ea07f065d1ef5403319300be77c962ff3e66026f9",
+    "published_sha256": "a2e0f2c6660c1be60e905fe66837f93891532e5ad88881f2e375ba8ea64d53b8"
+  },
+  {
+    "path": "study/results/predictor_check/object/selected/matching_arrays.npz",
+    "original_sha256": "496892fd4db078d82f6438af5d2fde7e340ae06a785fef733a2831c7ffcf7dbb",
+    "published_sha256": "cf67c9bce32b406f43ff52689612bcbe0807e51ccf8c4e0cfe0b29905bbc0cbb"
+  },
+  {
+    "path": "study/results/predictor_check/object/strict_100/matching_arrays.npz",
+    "original_sha256": "ee9dd931fd59f6107aca3338a1ca5ae971a71b6b2b227fb74d033527552c2a5e",
+    "published_sha256": "12cea69abd9c89f14ebaaeb13ec20b82080a581eeb5370e703773bd3af62bb2b"
+  }
+]

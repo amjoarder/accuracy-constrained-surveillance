@@ -1,0 +1,48 @@
+{
+  "task": "behavior",
+  "split": "val",
+  "config": {
+    "id": "320_fp32",
+    "size": 320,
+    "half": false
+  },
+  "completed_utc": "2026-10-02T20:07:38.109842+00:00",
+  "wall_seconds": 16.77251400000023,
+  "checkpoint_sha256": "e456a7f466700defeebe2df845b72a76a0e9545d575978f29b8168671ac4ec58",
+  "metrics": {
+    "metrics/precision(B)": 0.7445721310645059,
+    "metrics/recall(B)": 0.7156862745098039,
+    "metrics/mAP50(B)": 0.7575252267857429,
+    "metrics/mAP50-95(B)": 0.4278686830560856,
+    "fitness": 0.46083433742905133
+  },
+  "per_class": [
+    {
+      "id": 0,
+      "ap50": 0.7575252267857429,
+      "ap95": 0.4278686830560856,
+      "precision": 0.7445721310645059,
+      "recall": 0.7156862745098039
+    }
+  ],
+  "images": 230,
+  "instances": 102,
+  "fixed_confidence_05_iou_05": {
+    "TP": 62,
+    "FP": 16,
+    "FN": 40,
+    "precision": 0.7948717948717948,
+    "recall": 0.6078431372549019,
+    "background_images": 128,
+    "background_images_with_detection": 5,
+    "background_detection_count": 5
+  },
+  "settings": {
+    "rect": false,
+    "batch": 1,
+    "confidence_floor": 0.001,
+    "nms_iou": 0.7,
+    "max_det": 300,
+    "no_test_augmentation": true
+  }
+}

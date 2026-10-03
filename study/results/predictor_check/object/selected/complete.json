@@ -1,0 +1,15 @@
+{
+  "task": "object",
+  "policy": "selected",
+  "configuration": "640_rect_fp32",
+  "images": 425,
+  "instances": 519,
+  "metrics": {
+    "metrics/mAP50(B)": 0.7875716616126169,
+    "metrics/mAP50-95(B)": 0.5451623266446528
+  },
+  "checkpoint_sha256": "928fa380e809701d5dd96728c8da3cf4d928d53c8a800b2cd499f3c11102d936",
+  "completed_utc": "2026-10-02T21:17:36.654956+00:00",
+  "selection_unchanged": true,
+  "scope": "Post-freeze test diagnostic using native cv2 images and actual predictor preprocessing, pinned library IoU matching/AP; no output-stage extra object NMS."
+}

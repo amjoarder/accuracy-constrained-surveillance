@@ -1,0 +1,3 @@
+# Publication transformations
+
+Original experiment files are preserved locally. Published JSON retains numeric records while replacing private media basenames with opaque IDs and local workspace prefixes with <WORKSPACE>. Matching NPZ files preserve every original array and add evaluation_order computed by the original NumPy 1.26.4 argsort. The public checker validates this permutation and nonincreasing confidence. The downloader uses the recorded AIRTLab revision instead of fetching a moving branch. The root path can be supplied through VIOLENCE_STUDY_ROOT. These changes improve portability; no experiment, prediction or reported metric is altered.

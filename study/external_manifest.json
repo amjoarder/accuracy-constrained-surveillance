@@ -1,0 +1,2107 @@
+{
+  "repository": "https://github.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos",
+  "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+  "files": [
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/1.mp4",
+      "bytes": 3221320,
+      "git_blob_sha1": "722998365c334bc35934f92a6dcd286451bd9df7",
+      "sha256": "3a4506ecff9513682c7e03d42982d57ccda7f85d51519790ca6835acfe681525"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/10.mp4",
+      "bytes": 3228062,
+      "git_blob_sha1": "d3d46d1ce5e5288a3edddcb6bf881a7c8c90258c",
+      "sha256": "43271cea16f552fcd30695718cdd9c0feb0a5ff2694ac1b43de6fe09ff05220f"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/11.mp4",
+      "bytes": 3512465,
+      "git_blob_sha1": "6bfcc2c4d8e24af5b6876dfeec1188a6fa2cb6bb",
+      "sha256": "3e5bffc42d78f5efafa7a4da3be8fa10a0e607e1ca8707469ffc6e7577da37a8"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/12.mp4",
+      "bytes": 3090632,
+      "git_blob_sha1": "6ec1cc5fa90031e31b7046a022a5662b66dab255",
+      "sha256": "b7c9675b601cfdc3b7da5acce9cd4cdca65d5655d0b68cc79bc6120391c6908a"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/13.mp4",
+      "bytes": 5782860,
+      "git_blob_sha1": "81d6a31e24c0a82e95ca7a6ae9ab0ca16265ed97",
+      "sha256": "1fc8e8393400567ef3fb56f3d6084aa04b745d1ea2b5dfb0e9fc1ca4da7713d5"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/14.mp4",
+      "bytes": 3319910,
+      "git_blob_sha1": "5bf7098787ebf1bb6d3b15f4ec0bfb22315c5515",
+      "sha256": "87dbe82a885c707c43ec02df26b4c6ce442570f75998ea67ea37ab767c6bf149"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/15.mp4",
+      "bytes": 8154828,
+      "git_blob_sha1": "3c5e9d12d4bb33fa5623792113d46ccece3344a6",
+      "sha256": "946c26f4e2403ef079ebaebcb9ecd4f7d4724783aed6e25873e3a1e3001eece8"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/16.mp4",
+      "bytes": 3806643,
+      "git_blob_sha1": "e90a4b28145bfb134a0a0f79992a5662d04d27e8",
+      "sha256": "cebd563791f6d3ae975dc1e989db70f660ff702be5d4e43d878b4756a51cbe47"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/17.mp4",
+      "bytes": 3726555,
+      "git_blob_sha1": "fa87e429332c509c2f0756a9de587acea75eca5c",
+      "sha256": "675d1bac717e6307293227850d1afc19c4c49ee999b44a6a76a62e745d5ffde0"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/18.mp4",
+      "bytes": 4330298,
+      "git_blob_sha1": "506987de3d2705507ff4680889586532b4851873",
+      "sha256": "c762e3a77ce57bddf74cd2bdb6b98a40f083b8a33d923b084116500e20576e65"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/19.mp4",
+      "bytes": 1149746,
+      "git_blob_sha1": "475a6af20d96498d71045f2d7089b53a3ba26f80",
+      "sha256": "0a68def5d2f36c0916c6a394a561bcc2789c57d597deafa6e9a752fa613acfad"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/2.mp4",
+      "bytes": 3289529,
+      "git_blob_sha1": "1711aa7fcf129063d73485c4bbb2475d4ba99351",
+      "sha256": "5211939c5e4dc36ad2a2703b9cd89c91d755810b3645ae735ab04524252fe542"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/20.mp4",
+      "bytes": 1484507,
+      "git_blob_sha1": "3111c7d48591fefe61a2ada15ec346417583a9b6",
+      "sha256": "a892585876b98b09a16dec90b42c98d9c34a17d4df04779861f22573205c51cc"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/21.mp4",
+      "bytes": 2197156,
+      "git_blob_sha1": "802dfd40dd4d70525ab44e1ca68932a8aa974b42",
+      "sha256": "a3e267e86c60f3e36e2f270f4960175f34c698fd74ab69e9b523ea0094299927"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/22.mp4",
+      "bytes": 2434873,
+      "git_blob_sha1": "41780a9e27c8fcd6c93f7812e7f78306c2872c04",
+      "sha256": "2833cf45911dcff08ee2c1fa2bc52bde10c2a6722a5271c3c54de20451476b13"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/23.mp4",
+      "bytes": 4129430,
+      "git_blob_sha1": "0c5d2576eb47582549076530c68e8e814f8109f9",
+      "sha256": "a57dbed58d5dbf4ff5d590e445dc22c6c7da7e5daed7371d3c65ee4b4ec754b9"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/24.mp4",
+      "bytes": 3349149,
+      "git_blob_sha1": "ce3ba7765fb9b20676065468c10b5856f9f057be",
+      "sha256": "e8ca66b64a4d6c6c1feffe67cd36e633e5c4975f106350bdbbd7e22b9efda159"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/25.mp4",
+      "bytes": 1846702,
+      "git_blob_sha1": "ea671381fee26ee9dd28903b9e39682821355394",
+      "sha256": "8eaa03c5155b88991491fec57483f837b2b7bf24963e238b8e8703d2cd0b2d9b"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/26.mp4",
+      "bytes": 4122999,
+      "git_blob_sha1": "1b045de1840e39aaf0079ea47199aa24726b3523",
+      "sha256": "b8e2d4754d5b2087879a4e803a66edb863c35034cb7c8a51ba68d63ec4db661e"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/27.mp4",
+      "bytes": 2433956,
+      "git_blob_sha1": "c2bc241a825d8c4821775bd6199436db1c9c4d2c",
+      "sha256": "8a08f2403f2c67937d87c0871833dfd02de5f492da21662de3c9e1b048c46984"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/28.mp4",
+      "bytes": 2596139,
+      "git_blob_sha1": "bf8e45897668ac2da95dc2fdb4784bab6e012b0f",
+      "sha256": "18d8222a2640af12b7e5fcec5154b72c80db8fa244607c5bdb4ac460ee7151bc"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/29.mp4",
+      "bytes": 2278639,
+      "git_blob_sha1": "2203c3ee989a8ed89b7dc72e9da86ec4647ac7c1",
+      "sha256": "82d594a18a082083c29026426fd9f7dd0b8033d0e8b8ca2fc5c8154b23a334ff"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/3.mp4",
+      "bytes": 2641899,
+      "git_blob_sha1": "4a4c7480a98602cffaf94749c202389a83190948",
+      "sha256": "e4fabd94f9a5775728954f59883379035658f3986e91db72fa6e6baa2de6ce5a"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/30.mp4",
+      "bytes": 3765286,
+      "git_blob_sha1": "e01bd6d134d0d3e295f90e2870b6454ee04eb81a",
+      "sha256": "d85221c5f047f6872e9859028323f0ecd8970bb2d7d21d395980e46ff3b86052"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/31.mp4",
+      "bytes": 4809628,
+      "git_blob_sha1": "061c406b7ac205665ed135df710a3b7531bdecd8",
+      "sha256": "8b71797b473b854be09920568506f94f5f44eb2cbb2674958ce369cf58727696"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/32.mp4",
+      "bytes": 3651694,
+      "git_blob_sha1": "7b8c2cbd1f890c1d6d6499ed7eed8dbe59030fbc",
+      "sha256": "b14bc3f601b36b9f983fc611617f4bc993d3a8d8b9c6dcde9b4f42f200f4104e"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/33.mp4",
+      "bytes": 3551561,
+      "git_blob_sha1": "8be9521817807e8743bfd0b56ac899cb968d16ff",
+      "sha256": "4d8eb9b79e858826e9029617cc4e1e0d1e9adc068c64081567e10895c35e0342"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/34.mp4",
+      "bytes": 3185363,
+      "git_blob_sha1": "25d6ca56d1c769692ffc5801956f433bc2e0d878",
+      "sha256": "a487ec10facddb8f535063ac8d4f15d192c3d730594e57cccb76ae47a2e8b0e0"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/35.mp4",
+      "bytes": 3925750,
+      "git_blob_sha1": "e400cd93c0ec1b7078aec51d0b08190522f4c2d7",
+      "sha256": "a5077a371658ae53e3678aad50de8c43866f564e3df242555e7f2cc8b5103155"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/36.mp4",
+      "bytes": 3230043,
+      "git_blob_sha1": "f02bf4a162bbf473b2df8eb41614e1f2ae44fc8e",
+      "sha256": "d794afa4609d5ec26a36a7fc0aa2df4d7d9b59ca584e2ccdbc1978548ab7ad0a"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/37.mp4",
+      "bytes": 2814948,
+      "git_blob_sha1": "bb3c631ab05e0e372d3381b2a5d00bd1a5340176",
+      "sha256": "10133b7a6f342de79e2aa9fa9080aa8c752075d5b49127922b2661161ec559ad"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/38.mp4",
+      "bytes": 3596312,
+      "git_blob_sha1": "5d109e1fa5da80ba253abf8cbc80118107ae09c1",
+      "sha256": "dfd19fbc52707fce2319c7bfc930e7da99a3152567a734713b794ca0753fc684"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/39.mp4",
+      "bytes": 2673939,
+      "git_blob_sha1": "6c666dda2852c41efc1d894a8f7655e12040e140",
+      "sha256": "6db9b03f8ab0ab0a2b4680302b0a6ea689ff1dab0b67f00581f3c52f16f8a769"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/4.mp4",
+      "bytes": 2363428,
+      "git_blob_sha1": "680306de39ea676a869ee5cf624ad8b5a9251943",
+      "sha256": "b4b584f7c43b32596eb7ada515255bdfacc159fc3aa9ad0d6d6c1734abf51d28"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/40.mp4",
+      "bytes": 3232091,
+      "git_blob_sha1": "c129e2a4d945383edf3afd1ff2c224218f1faf82",
+      "sha256": "84206f462a4dbdf6547baec50167eebce0bd48d5c4a83ff0373a01238326a626"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/41.mp4",
+      "bytes": 4243074,
+      "git_blob_sha1": "7dfcc1a6a8ca491af93e44a7a7bef2ca86fa08fe",
+      "sha256": "91978a72594b094837c41a73d2f6955c9e77ef90a3e24a859898416b47ef909d"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/42.mp4",
+      "bytes": 2799238,
+      "git_blob_sha1": "ae873503ac22eb43b2f5c458218a3a61d2faf5ff",
+      "sha256": "7e95f243942b5c9b3645da774eaf9d582ea723accfdf2d5ca033f57962691863"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/43.mp4",
+      "bytes": 2079994,
+      "git_blob_sha1": "c3ee10bf8c0238ed452c2a4cd03ecad1850a0e1b",
+      "sha256": "702ab15bbaf487f13e88b924b5c62d2272f955de1a8bdd42dc0ec559365efe7a"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/44.mp4",
+      "bytes": 2310210,
+      "git_blob_sha1": "ca0297d833aa84e3d975f6313059c2efb138f7c3",
+      "sha256": "8a455e4232f1246a19feee0b697a372909506d8933a98a6812b82dbbbe1a6160"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/45.mp4",
+      "bytes": 2249351,
+      "git_blob_sha1": "ab64a509b54018beb4e12870f6d384d09ded1197",
+      "sha256": "47d4ea7ec27aaa1e0c9f8dec8bd4cf0aeb5453ea3a6310249bb1b3266a95e351"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/46.mp4",
+      "bytes": 3432017,
+      "git_blob_sha1": "ac4dafcb4ace9f9b6def7ccade39552ba46fd028",
+      "sha256": "c08a89c9425c404682557d3a67f8c3f7dedce418a1730227fa47c58b573e423c"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/47.mp4",
+      "bytes": 3431486,
+      "git_blob_sha1": "fee691066d8a05fb49bf083f5cdcbb3486e0009c",
+      "sha256": "a6d632e26acc97f66e68d5f48efb27685df4f06d461dfe8478c8ba5d9912025b"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/48.mp4",
+      "bytes": 1955076,
+      "git_blob_sha1": "66fe61c92aa045f02a4c3ccb74085bbb90f85bb4",
+      "sha256": "58974f19e0a8cd8dccffbef2aee1ef2c90b781a9107c16a67a92b714a2f3d537"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/49.mp4",
+      "bytes": 2983289,
+      "git_blob_sha1": "980807051deb5494e7e0535c1cad1d0feb948a9c",
+      "sha256": "2979dcaaaa213381de78984ff27934049da5a022239d7be190c3edf010e847f9"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/5.mp4",
+      "bytes": 3045567,
+      "git_blob_sha1": "9aeceb6d243a48d8b473bd540d52b24ddc9e4347",
+      "sha256": "f9760f3d67cd7e9d77eca3a51d6e0fa005a6114c053493ffd2b58f3ff1d6484f"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/50.mp4",
+      "bytes": 3706877,
+      "git_blob_sha1": "a5dbffb8a6c7f7df6af322484036be5eac263f6b",
+      "sha256": "b8ccf6d0078beb36c36c8749fcf6c70abac6cd37e7d4703a1c7f4189d4b55fd9"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/51.mp4",
+      "bytes": 3069034,
+      "git_blob_sha1": "31a0a125fdf2d7015c8ec4de414acc7916cbdcae",
+      "sha256": "091821473e87db58bd4ba77c318e66faa1f14704112f85ab09f8afe0ae3c58ba"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/52.mp4",
+      "bytes": 2696780,
+      "git_blob_sha1": "ba9894350d6f41c22a2209b71a2cf5dd593502c8",
+      "sha256": "e0ce4a78a8f31fc50e63938848138c5d91c92432007b8f0c4906ff61bd0be4e0"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/53.mp4",
+      "bytes": 3054503,
+      "git_blob_sha1": "a89045f894c8bbec3c322314a707b3a8cb73f273",
+      "sha256": "30883b9bb1fa4fc3c583c67c292d4b2b8a996e2de67493b1c1c2b7c95437ee89"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/54.mp4",
+      "bytes": 3994401,
+      "git_blob_sha1": "4d0f55effbbb8854ffba2a8a226b79fed2179248",
+      "sha256": "75e68734e575e548e51828370b6cfc553f3cb3b7c7ada2dc7f510ab33a640085"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/55.mp4",
+      "bytes": 2384832,
+      "git_blob_sha1": "cfc2dc7d6a9e79881c3de5a98589c6ef2115c173",
+      "sha256": "6e2a67b95c8cc3dc172754222302ba6f79b93bc5bc6beda66fe7dbe98f47a3cf"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/56.mp4",
+      "bytes": 4423398,
+      "git_blob_sha1": "b9aff866eb0b5fc33f7bc22f8734e9fe32e38bc5",
+      "sha256": "e05e43ca426ae506b09efbd8575b4c7e92553670b584730737a8bdbe4a96724b"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/57.mp4",
+      "bytes": 3842735,
+      "git_blob_sha1": "03b3d8a1099282af00400a4aa620b254d29c9edc",
+      "sha256": "2878932c69ddb21ae46ca9f7a8306728ef71ef49c04e78c1f1156c84fb0155aa"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/58.mp4",
+      "bytes": 2977178,
+      "git_blob_sha1": "502053730c091d9365df16e38cf9f86cbfd87668",
+      "sha256": "39f054f0fae35071b40f0314f1bb886c835826ceb8c81525af22d453824a18e1"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/59.mp4",
+      "bytes": 4186537,
+      "git_blob_sha1": "4cfc4fd90cc636b99c854b883edb6cc7ac1f0aa3",
+      "sha256": "7fb62a8b0670f657f5db9fe6a1965ce4d25f8091b2f3cb5212311daacf513e19"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/6.mp4",
+      "bytes": 1766254,
+      "git_blob_sha1": "eb7c3ee092733940dbf9141af97385b526230318",
+      "sha256": "18a18720e3f73838ca4de8a61bd00e0f8e984032ec4bb33ff93487cf304fe310"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/60.mp4",
+      "bytes": 3478353,
+      "git_blob_sha1": "04e022cb7605a8b8e33ddf7f1584b6deec062f4f",
+      "sha256": "7a76c4e4737d9a79f235b4baee27c70ae3f4f61c2798a02efd3175a77e24bf61"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/7.mp4",
+      "bytes": 2324883,
+      "git_blob_sha1": "f30b6d98a294e3f5ad55f99a1325149a8be1887a",
+      "sha256": "fbabf38d77713b2b6176904c9307ec1a6e35448388f72ee5d58ab14c7d9faf15"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/8.mp4",
+      "bytes": 2100094,
+      "git_blob_sha1": "9210c1b54f4ffb3b31b5a88e2c2e4a378f4dde0e",
+      "sha256": "2b0be13dfa77860af1db2c2d65b609a987817bd69678d79bfa0c03dbb8485fde"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam1/9.mp4",
+      "bytes": 2767127,
+      "git_blob_sha1": "86aab451e7b649156693b49395bb8c8121ca4812",
+      "sha256": "13d3bfdca1cb4842bb758f85725883056b1b1812cfe6392c1d3d97425a0f6324"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/1.mp4",
+      "bytes": 2172219,
+      "git_blob_sha1": "0f8a7f1c6418c09e403142b2290ecb7618574677",
+      "sha256": "d6e21bf5ac06eae030139a5d5f700fb2c01c6639e7920cdb43c0ee04fcc2b698"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/10.mp4",
+      "bytes": 2856163,
+      "git_blob_sha1": "ed5c2ffd08f56f03ad961a2ec8ca0b7dc8ead96d",
+      "sha256": "456a2ac8df6db730ca3fa9a82e2527800cae02728926a052d5b65aeb9e347b2e"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/11.mp4",
+      "bytes": 2684363,
+      "git_blob_sha1": "03fa898ed34efb461f06cbf09529c09152282c19",
+      "sha256": "8caa88e11df8ad1a155946d9438622a4b90fa25326a0f89459e4b832fb2afd86"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/12.mp4",
+      "bytes": 2308227,
+      "git_blob_sha1": "ef48c08d70c3d47ef4e30801c30a5b0b9e6ac557",
+      "sha256": "e4724baf7ddbdc405523a41696f2b39df4dbd8c5313c1239a9d21e7a30d545f7"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/13.mp4",
+      "bytes": 4528608,
+      "git_blob_sha1": "28e61f2aad4053bfc0f50f2195a41d39fab8f2f9",
+      "sha256": "469c9fb05d2f3171aa40c467f44dc7c99b7c8c3dede4900a723ab956f6389ed3"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/14.mp4",
+      "bytes": 2846352,
+      "git_blob_sha1": "e5a7b81921e8b8e2d3c333131c9fb73af1336533",
+      "sha256": "38fec563c3d40859aa0fdea8a6e2185d52598b658d586b9a2c0896078268c9de"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/15.mp4",
+      "bytes": 6454332,
+      "git_blob_sha1": "5e434fdef614e56169eacf29c55c96cbd34c51eb",
+      "sha256": "fb63a9772562cd1cda41ec3298533035bf6d5098f22978fe436c5c8a17bc285f"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/16.mp4",
+      "bytes": 2958822,
+      "git_blob_sha1": "da3ffde7ae233f50af8597a19709173cf1bf8969",
+      "sha256": "3d81161832093c208a5f1d74f823483e5ee8b6619d729ee63cd7370598f27e5c"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/17.mp4",
+      "bytes": 3465733,
+      "git_blob_sha1": "74d95bd64d149a9f011e518fdad88641d1030ccc",
+      "sha256": "b7fd37ab2389841cc5a1de70fb23b7ee9701718f312b7e7b15a313ead0c15f75"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/18.mp4",
+      "bytes": 3191010,
+      "git_blob_sha1": "6521cc4945890ed68266442ca3672dd3739de605",
+      "sha256": "6596ad1973a0f80bcc0db212836742ec639da575160bccf0b1fe7fe813d9702f"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/19.mp4",
+      "bytes": 1139526,
+      "git_blob_sha1": "87cedba364f2e78d52055ac3ad37159df9694c02",
+      "sha256": "b7f091e1033a0151e3326ae7b01ff672c45c045b33287638a4f2488bb80e7168"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/2.mp4",
+      "bytes": 2451041,
+      "git_blob_sha1": "d2db1a0b74d3b2ef2fa29f3ff0b033d41000e4c4",
+      "sha256": "7ca3d42f626c86d54af822db37ab45bfce4fc1c339565fdb43dfe019c19dd2be"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/20.mp4",
+      "bytes": 1485298,
+      "git_blob_sha1": "190c241123c74bdc869b568eec2314e3ebe20758",
+      "sha256": "247c96173d6eef2623a353bce21159b1c568f8b07eaab47a5b1a194a25615c05"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/21.mp4",
+      "bytes": 2253402,
+      "git_blob_sha1": "eb15a4fc9067b757c2fc8289fe11b93bb7896c16",
+      "sha256": "67550ead83fc9b1f86eb31e6d06d6f6e73c1d3b7bd14c62b68eead011778f8e0"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/22.mp4",
+      "bytes": 2424154,
+      "git_blob_sha1": "2b8d3c3492eda779c47a214aee4e1b4c3a07ded8",
+      "sha256": "94c2b4c215726de931de3c2bd26ec8c02a29cf6663e5f7db4df1d4513bd42573"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/23.mp4",
+      "bytes": 3001904,
+      "git_blob_sha1": "decb557683965b0397bab9ec386a50f2c0e41906",
+      "sha256": "3a12423874ae10565a8d8df654db70da6964a59f293cc579711346a9ec0306dc"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/24.mp4",
+      "bytes": 2558464,
+      "git_blob_sha1": "712f88550c51c08794f2ebf7f029650ef6c1aa73",
+      "sha256": "105f69187c0830aada578fa741f1ded3ea14ad4aef4ca621918174cf47d6d002"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/25.mp4",
+      "bytes": 1635682,
+      "git_blob_sha1": "40bf0cf0c69ba7fcd312cf1198f0900777484c44",
+      "sha256": "5d1776e3cfd49a31726de55587bb26920a797414fc66a3131b7cf1a0b3969989"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/26.mp4",
+      "bytes": 3491581,
+      "git_blob_sha1": "a453a2a5332c09567854ea82f9aa273eecf45565",
+      "sha256": "0060c7a3a7a02ac38c0015949a5ecdf3fb7f62bf1614da02912828761da25185"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/27.mp4",
+      "bytes": 2639484,
+      "git_blob_sha1": "2fd6ba95e49dd3a2623465ff7262ea541b50020b",
+      "sha256": "91ebb8f646ae68acf928ee1f3164b7aec7c47b70f222a89d6275b166ada0799e"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/28.mp4",
+      "bytes": 2135572,
+      "git_blob_sha1": "1d729a44f1022723de6719bd38278ad85e333ad6",
+      "sha256": "9308d234d3b2d7f545cbd7806ed9bd3f27d5c2a00834dc089f1d54818abae2d3"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/29.mp4",
+      "bytes": 1892121,
+      "git_blob_sha1": "4f080076023f21536a1ebe24756c307282f6d06c",
+      "sha256": "5c2e4506fee2565364e0ad7788ce40475c1aed6beea7df3aac164a477d211544"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/3.mp4",
+      "bytes": 2348419,
+      "git_blob_sha1": "281fff3083f742cba1d72e1a8d4fd1f7749b5aef",
+      "sha256": "a8617d891404fe35a5b1e51b85d9d41ee2f9f3a6c64ca9769ea7a4847cae15db"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/30.mp4",
+      "bytes": 3342374,
+      "git_blob_sha1": "799f3ff14917ffa441d97cbe4f46fffeb37cf64e",
+      "sha256": "5d0ba8b46d50da8b790aae9b469289ef2259f789ae6ebfe4de64bd7af2bdc663"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/31.mp4",
+      "bytes": 3720417,
+      "git_blob_sha1": "6a058201ef6d813e5b9d0a16df4c649c0c1d2b36",
+      "sha256": "57b7ae5cb1e7bb99c58c04e70be620a5afbeb1308d5fadf3afd565209f28f4a3"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/32.mp4",
+      "bytes": 2941427,
+      "git_blob_sha1": "df0bc4dd211b8798bb4ea5f82d73bf8413bfb847",
+      "sha256": "163e95b20f52b886d09e136b2b8a12154630a17ca0fdb4aa83a3e4d46e18ca16"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/33.mp4",
+      "bytes": 2923671,
+      "git_blob_sha1": "55313396ea8d2593fa6d280a5128e925a9325eed",
+      "sha256": "e02a9de98dd5fe8949bc0361cd3e67a48cc737fe8ca89d09105c291be3252ce8"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/34.mp4",
+      "bytes": 3053260,
+      "git_blob_sha1": "c8c7cb570d3c94446b80088e05099a6c66a8b24e",
+      "sha256": "24040e7877ae042a968015dadad488b6a6f1a5bc064060629a411be118cf3902"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/35.mp4",
+      "bytes": 2945504,
+      "git_blob_sha1": "98d928286bb45ee4e0d6308bc3b980081e392c08",
+      "sha256": "34debfbb18d79f1c82d7caa8e392fa856ea7614575324bf18ddf1d3c19d67f59"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/36.mp4",
+      "bytes": 2112464,
+      "git_blob_sha1": "30308be86d37ce0f7b2bf59168d6f220ff91a87d",
+      "sha256": "b54375113c91628a3dfe9d5ff8aa9d78f5ee9c64617aaa68ecebdccbb4722bff"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/37.mp4",
+      "bytes": 2555960,
+      "git_blob_sha1": "162f55309332144f38d2a4cc1f25698a4a486d32",
+      "sha256": "ac52cdde45dc40a85f658afb737d0e8e0efd96dece701e424b32444850afbe55"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/38.mp4",
+      "bytes": 3356086,
+      "git_blob_sha1": "25776f9f41dd7137986fc3877987b82d9fe53c46",
+      "sha256": "91c9ccc2c8a47c93f866423f08bf0955420fb35bae2a36d29ed88cca424a1801"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/39.mp4",
+      "bytes": 3568987,
+      "git_blob_sha1": "e0ea4100abfb5e5407ee74c030d424e42e772c48",
+      "sha256": "40ada6821c8137996fbe7b48750ec5cbda27df2a2ff591d2d7552e4602777713"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/4.mp4",
+      "bytes": 2004848,
+      "git_blob_sha1": "6d6359333349c89d435b961fc01d42cad507468e",
+      "sha256": "733db733ea4b604cdee0acafb74ba00ef52dff742338c977b6cc57da8bb4cb1a"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/40.mp4",
+      "bytes": 3581189,
+      "git_blob_sha1": "ab0739467218585f595311427ee1adc7a40c074c",
+      "sha256": "4fdd3f35e53fdf221f99accab59eb1098429769e9e08af04471dc48e03601f87"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/41.mp4",
+      "bytes": 3087780,
+      "git_blob_sha1": "1a7e3c28ca00173fff773eba0aa7ccb1bdc4bd8d",
+      "sha256": "77f37742aa5618e3102e25d085cb43d99ccca102ab6b32ebf46bc80c5c2672ba"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/42.mp4",
+      "bytes": 2057462,
+      "git_blob_sha1": "6505bfaa13816c30668a604ecda761b44e114cd4",
+      "sha256": "e75d2dc0259515df3f5bfd0ccb53bb668b5078a546e2b3d7d1430ec26a449954"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/43.mp4",
+      "bytes": 1416914,
+      "git_blob_sha1": "b04330c909096c296373f0544ec1514a2b93ebb8",
+      "sha256": "8c200dab92183211d58f1fc4497e63107ed5ef8d1a7dda14f521c0c53a73b6ee"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/44.mp4",
+      "bytes": 1918397,
+      "git_blob_sha1": "9a22dc4c3016a3b73e7259e418a2199c7cf799fa",
+      "sha256": "1e62f20a93087be73761e8e30990511dc26d2cbcfb86cce0bc852839de374dba"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/45.mp4",
+      "bytes": 1541524,
+      "git_blob_sha1": "5e949e7ef338624aba9bf8659f49f280e7fc3bad",
+      "sha256": "5fb83834913f4b545aaecdb8bdb9936ebbd28962b31625345b167a51468d723c"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/46.mp4",
+      "bytes": 2724453,
+      "git_blob_sha1": "82e7b30a664d9e3290d831ffdaa42e7dffa818b1",
+      "sha256": "8ce1ae2c7afe12e92167da67a48ff7e541a89376933ee2763bca81a8d32e1ab2"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/47.mp4",
+      "bytes": 2520232,
+      "git_blob_sha1": "15bf6dad8a62c5a7d299700acd0d9da57e934c52",
+      "sha256": "b25b2ac1854c5fc97037db1c47436ec6d2f999681a689e03fcc07072edeea083"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/48.mp4",
+      "bytes": 1839760,
+      "git_blob_sha1": "a8af1865e875a1f1a8a898d95ea533471f53a2b2",
+      "sha256": "f92d75c94a35f722d359065ddeb8cf76819ed45d7a52640aa91795f20e38befe"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/49.mp4",
+      "bytes": 2186404,
+      "git_blob_sha1": "a4b92c78156569d26bfa90737c6bc532f0a30060",
+      "sha256": "beaf95011b630f6b1228c9f70dd64dbba405c13277f3fe3094d7f1a1b65af7f0"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/5.mp4",
+      "bytes": 2431876,
+      "git_blob_sha1": "5f5af5c692b8d430011c26458bdd9667d6e5ab7e",
+      "sha256": "c4e2408e564dddc3bfa06ececea30439dac714aaacb5bc18168d524c9841496a"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/50.mp4",
+      "bytes": 3282171,
+      "git_blob_sha1": "ec53f47d20a889db50f90bfaa6b6d66f35e2df0c",
+      "sha256": "8f1b95d272bbb5bb3b23d835c4f8528ff03d45278958f7571e325e805d1b1ba1"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/51.mp4",
+      "bytes": 2378573,
+      "git_blob_sha1": "2a67bb1c4cced1f4c7eaec603744d14d82ee5b6e",
+      "sha256": "82decf50004abe3eea54a4c96f45eceedd9a98362c933850f3fbd323197a28d2"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/52.mp4",
+      "bytes": 1865883,
+      "git_blob_sha1": "92f760cc90c52835e1813fd1259967ae28f57cc7",
+      "sha256": "0cd5e68b8ca15214b36a2573235d2f14be87755c5d04f79156a4a6da784825f0"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/53.mp4",
+      "bytes": 2459631,
+      "git_blob_sha1": "77c1bbe45f1560161c286750d3adc8db2fb60ac5",
+      "sha256": "bc335c579d6a8b21e308ac949d2cd13dc771a82de060e1e8c70a157a250946ac"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/54.mp4",
+      "bytes": 2867127,
+      "git_blob_sha1": "0848cc70fd999827f65e97f9f39b44ea16961020",
+      "sha256": "af705f5d77a2c52e8f497a57340d115cf0cb2212a68d6256e569ec7881845360"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/55.mp4",
+      "bytes": 2003379,
+      "git_blob_sha1": "eb0b0d092db2c27d608a9f9180726a4b75db7246",
+      "sha256": "7e7860ac4b4da15ec453f81b3168070bf06fa4ce75404c9342a7b11a6aaff37f"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/56.mp4",
+      "bytes": 3666582,
+      "git_blob_sha1": "580c9793c5006d912ed2ba22b4aa4fb878366b0e",
+      "sha256": "5e43bef060a90f850ce84ca64291f60e1686af25009332fbc13de252eb199470"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/57.mp4",
+      "bytes": 3000193,
+      "git_blob_sha1": "1ff0b452370ae66fadaecc187ee3d82ba6eb468b",
+      "sha256": "7f5d60c6d2dff8bafd21bc4b6f369fa8f459c86036f2f19800e58d7b4bc32906"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/58.mp4",
+      "bytes": 3080749,
+      "git_blob_sha1": "58a2f880f8c8a7b1813f9989adacc1dd8db3997d",
+      "sha256": "e4453529539c3c946e4dddf22fd70f60366298bb6ac150dd09620a63003f686b"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/59.mp4",
+      "bytes": 3729851,
+      "git_blob_sha1": "cb3b8be583b3e2fa2a53fb6a379567390ceb67e9",
+      "sha256": "4f0e41a4170cd15718faad460b0e578f220ca2a1ac06e6d67e5a16a755a0081a"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/6.mp4",
+      "bytes": 1667249,
+      "git_blob_sha1": "6795a59d27fdc153418c68f072bac5f38214b815",
+      "sha256": "f0c3d229b7cee1a2fef31611bae845eb492231a0f38b57eae44303ba2427f8e3"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/60.mp4",
+      "bytes": 2713558,
+      "git_blob_sha1": "9119848d044cd8e2c2bc8b5d23e06a3cde65d96f",
+      "sha256": "39525452850a7a64019ba2544be07b7b747da2d516f1db256c731cc872050ae6"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/7.mp4",
+      "bytes": 2031640,
+      "git_blob_sha1": "26bec69afeb7fb4464f2e413536792bc2c16f1e1",
+      "sha256": "90496092fc21f5165ec45da0be68067045609702e2cd5e4d592e1c7419812fa0"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/8.mp4",
+      "bytes": 1840931,
+      "git_blob_sha1": "2fbb9cded3152f289bfa038fb679866e82005399",
+      "sha256": "56fe124233b1843f301fb7a9e576a4fc6975d16b12fd42fb88338c9096ba17c7"
+    },
+    {
+      "path": "violence-detection-dataset/non-violent/cam2/9.mp4",
+      "bytes": 2094218,
+      "git_blob_sha1": "43a7a35b34e32b09295ad2c265629c8af47eff17",
+      "sha256": "18c7016ccf2d4b900177756f70c2ae21423b1b51ff5d913c0086ab7ea2cbd19a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/1.mp4",
+      "bytes": 2360533,
+      "git_blob_sha1": "11c963dc48bb9135b6b6d5ec4f62f3045192b79d",
+      "sha256": "4c94625d8b6c4a6b75e67fa1a1a605f88e452e2688bf0883dac7973d77a0c6a8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/10.mp4",
+      "bytes": 4271919,
+      "git_blob_sha1": "b08165bc5f326c24c9d61b4b423b2a92026a8691",
+      "sha256": "7a20d7f9140a87b59d811581d061a9056655f5236a71ea908c1cc8dcd333ae7f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/100.mp4",
+      "bytes": 2330860,
+      "git_blob_sha1": "5d0712ad40058936df8a8db9a2db8fa691f2a330",
+      "sha256": "a5cf85d8da5a4471e1c7e0fb77bd8c97da63734197e6077f2a1b236a91af858d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/101.mp4",
+      "bytes": 3887103,
+      "git_blob_sha1": "3972a0423228b8257ec8c20410abed26d753070d",
+      "sha256": "aaf27024a31dfdec436a357f416340671c9819ff204bf6ef6e6a0bc55a835a06"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/102.mp4",
+      "bytes": 1611108,
+      "git_blob_sha1": "4ef4987691ad581968c4f607a9136d156455e4b7",
+      "sha256": "9fffc973c84bc801488357ce4de502d171a1ba301bbba6fb3e4c905f2d063772"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/103.mp4",
+      "bytes": 2373672,
+      "git_blob_sha1": "12008e1b4ea081032085c37017c638b01bd2d682",
+      "sha256": "1b34b44f96b67ea3df351c2c9d59545fe75e31d2b57a313714c6159baae480c7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/104.mp4",
+      "bytes": 4480061,
+      "git_blob_sha1": "0aa051af82fe36be86452b7c0f04d10257dd877f",
+      "sha256": "3160a1d17100de934a5317c4bd3c3bea96d1e6c30366a0b54d11bb9125693394"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/105.mp4",
+      "bytes": 2024274,
+      "git_blob_sha1": "4eb1b27c3e19ea2d2a7f3d4cf1ca45f031c510dd",
+      "sha256": "e41748cc71392fa7e72125227546d2e143ebb1b40c0faa2fad8762f8bbf6d9fb"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/106.mp4",
+      "bytes": 3079744,
+      "git_blob_sha1": "6948bf68b741b55b1699ce0af9b02c73ede6dab4",
+      "sha256": "f4e1deca415acc6c910c6cc27e68ed58552cf0b44c083e413ce1ce0c420fd8d7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/107.mp4",
+      "bytes": 2274966,
+      "git_blob_sha1": "c5dcab26ecc01c6144a8fd3964feadb038f2b382",
+      "sha256": "bf47431c6ee348fb3a63416a7b2b105ffb71de917bafaf9d2ef206335fba0090"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/108.mp4",
+      "bytes": 3407293,
+      "git_blob_sha1": "27c9c0c90eac28ac1c2cda54ad3673a32e49813c",
+      "sha256": "cf6c465d0c2caa5a359be6436c1ab4352c61b5ab532317b99479634bd7da48aa"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/109.mp4",
+      "bytes": 2253660,
+      "git_blob_sha1": "0ee532a96f705cf2974dbab6d0d5e571db304dbe",
+      "sha256": "14dc2cc4d72c874d292716b07a0244bbb5ece8886f5334b1579ef9438f96e018"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/11.mp4",
+      "bytes": 2962015,
+      "git_blob_sha1": "481c2ab88d6da23dc7a9a94a53e2ca7c7be1d66c",
+      "sha256": "c9db3ea5930d1071901df20ca8c47c8c1949fa2f53503d991b013ddbaaec5dfb"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/110.mp4",
+      "bytes": 2355669,
+      "git_blob_sha1": "927b590261fb342ca54b4cc501e585e0f9728213",
+      "sha256": "7d47238a8ec20748d7bc947d8bf441da09074d10e8c8de1eb25fdc9000d4a6a8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/111.mp4",
+      "bytes": 4005714,
+      "git_blob_sha1": "50390a505e35d691410955707b1509d81e12e7e6",
+      "sha256": "7d85ee10da1c30de40bcc1bdc9687e4bf7441a9438bc4d5eb3b5ab19c892f85f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/112.mp4",
+      "bytes": 1908050,
+      "git_blob_sha1": "5257a8799055a1ddfefa18e5ff087dd0d1859ecb",
+      "sha256": "3ad79602dafe5cf53fe42deb8210f64fc330ea872e479e01cd38675a96ded417"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/113.mp4",
+      "bytes": 3830199,
+      "git_blob_sha1": "b495450738ac9a731b6ff45c4f083ea9c4a3190c",
+      "sha256": "f43aae7ecb5c28ca6c655b6522506e6320caad7d82247274c6f4f15c7fc54613"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/114.mp4",
+      "bytes": 2735896,
+      "git_blob_sha1": "ca4973dc78e2aa67855590f6b20c4beb8c67a2bf",
+      "sha256": "fc4ec9f857dd0f66bd722cc76bcd735eaa7c08cc45abecc7e33caa9e998d0c70"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/115.mp4",
+      "bytes": 2814480,
+      "git_blob_sha1": "9978298798e2f7dd37e818af9e52c713b301c31a",
+      "sha256": "cc6529c92edd9867392874c3fa8443d667cacbca797575c454fa7091718dac4e"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/12.mp4",
+      "bytes": 2990114,
+      "git_blob_sha1": "be8cb4735711dbdc202d74dd74e8b4e7356fa304",
+      "sha256": "4ce5dc6137fad8570934a344f6c2785ee507ef28795b2c6aa7c98a42aab765b4"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/13.mp4",
+      "bytes": 4012424,
+      "git_blob_sha1": "3a982a580d85a6f7af768cd65c8e265ee3bfabdd",
+      "sha256": "821ac5a4b446ff091bb211553dc4702171bd037db312e62e2507c379c22a0cbf"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/14.mp4",
+      "bytes": 1969869,
+      "git_blob_sha1": "89125c0b918b6ecff2a17dcaf12e5324293e1fbb",
+      "sha256": "2a751d87746adda7c63c0c55a67eccca5d956dd1dd46ec51e431bfd27cf08731"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/15.mp4",
+      "bytes": 7272778,
+      "git_blob_sha1": "6ef564ddcae334be0c2d2f607d45c084c01b0d29",
+      "sha256": "ccd673f92e1b5177eb5956079b825315b12418e331ed24b6c2d846d92e5d0fcb"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/16.mp4",
+      "bytes": 3804832,
+      "git_blob_sha1": "4140654d516dee98c5de70405433729b81be90db",
+      "sha256": "d8b2d1ea3ba9f29128a18ea6e4a54e88d209e0226555a65409615e39f81acd21"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/17.mp4",
+      "bytes": 2191565,
+      "git_blob_sha1": "ec9789300e7d68f90a46187e9f2048d6c8727162",
+      "sha256": "9a8fb798fda9f1502c885cdad725df6beb946336d7bd8f8783ae5410904cc54b"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/18.mp4",
+      "bytes": 3208396,
+      "git_blob_sha1": "f5f67edff73cbfa47f86027d9192119ec7d8a1de",
+      "sha256": "8d98ec1a60c3650fad0fe3e2998521995a68eed1b2e5f7cefef4f6dbf8ea183c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/19.mp4",
+      "bytes": 2896125,
+      "git_blob_sha1": "8ae50a9bee4c6c20b4ea232a029bcd015c9c6423",
+      "sha256": "841e7c1e9cd60450247dc4c4bacb55664e40a3a350f716d02ce1783695d4b96f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/2.mp4",
+      "bytes": 2637333,
+      "git_blob_sha1": "472feafd3611ea41f44caa01da4c0c941de056dd",
+      "sha256": "258e1c261130b151c5e23f81cdc6eaf022b9a690bac46dad0d1ac557010be374"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/20.mp4",
+      "bytes": 1789914,
+      "git_blob_sha1": "56cb3dc5654a5bf153a868d6139d872e7b6a3dd6",
+      "sha256": "f1f3cc28702d1b177259ac2d64f5060f7e9e7244794d40464646335f744c6cd2"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/21.mp4",
+      "bytes": 3145053,
+      "git_blob_sha1": "a5f6fad7ad0b3706d317fc51b364c758b5c04f77",
+      "sha256": "0d9329c155090351bf63f3d50ca71c367438870a0e75d00db6dd8790b9afda1a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/22.mp4",
+      "bytes": 2214616,
+      "git_blob_sha1": "5c777ecd06fca9913f639e4705a66e0be645d441",
+      "sha256": "3a86f7df5c5a97b94529344fc2f8d700a42e0c1ce8ea3d7259cf8cdff1f7a53e"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/23.mp4",
+      "bytes": 4541571,
+      "git_blob_sha1": "973990114f1fca05afae31eca419106d48670005",
+      "sha256": "ba375c212fd1a14fdc3ba047d2b673a8f63ae678e9f8d9f4830f6d877bd74e76"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/24.mp4",
+      "bytes": 3053986,
+      "git_blob_sha1": "ada9b0c8abdb534a97a150fd12a09cc6d00f64d3",
+      "sha256": "18a01165817a8ee4a96de1c7d4b75e32d5ca55abbd89721230135d1d3311965a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/25.mp4",
+      "bytes": 1895847,
+      "git_blob_sha1": "434f28944e678f7f638eb960bd91952a67b8bf78",
+      "sha256": "f7eae8aeb9df522fb84cb86eb527644f153c61cf7d72f60d73fc6ad325df3875"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/26.mp4",
+      "bytes": 3866527,
+      "git_blob_sha1": "aa12c35ad76287581b7b79f163bd86fc063ae6f6",
+      "sha256": "794f686acf7816f62e011fab6029b5abf8937e878133bc99fa8f5557f9332328"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/27.mp4",
+      "bytes": 2864976,
+      "git_blob_sha1": "9dbceb16705b45a794cec792853889b7048ae361",
+      "sha256": "1442c9c75d2c391ceaf947864f737600980553e3fdd234486156138a9551e40a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/28.mp4",
+      "bytes": 2586248,
+      "git_blob_sha1": "fb10d3e291ea1ff73e4720e008aac2a3c49c62f5",
+      "sha256": "82312e50d132b280195789326d9c39374726c729de4585218b77d50a5713fed3"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/29.mp4",
+      "bytes": 2611392,
+      "git_blob_sha1": "172c64f5b843ffebd1e516ecd46916bf3e54a6c0",
+      "sha256": "65de032a96c65681a231ca716108cde965147de9949a3f4906058087f21d630b"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/3.mp4",
+      "bytes": 3447257,
+      "git_blob_sha1": "0805bc84bc4a71959210e83dd091abef2098bc76",
+      "sha256": "c4bdd22f8763f6694b2494f266258e6055a68816c056a147656e7dd2b56e2226"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/30.mp4",
+      "bytes": 3984365,
+      "git_blob_sha1": "7ba619aef20488c282e2fa5452d259dd8123c4bf",
+      "sha256": "4f7eb57576df1f65ceb1519b462d689f031754fda06ea24e658c6e645a561147"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/31.mp4",
+      "bytes": 2993162,
+      "git_blob_sha1": "53015ddd6f972886b6e8652f076baa736c9c5bb7",
+      "sha256": "606f2870bc316ea3e373438b319053278b0e12e5c159b0a20b9773a180290614"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/32.mp4",
+      "bytes": 3590496,
+      "git_blob_sha1": "f0f862f391c90b6f56308737c066995bdf2f3fd1",
+      "sha256": "505f54856b78fb62f0a05fff82857489f366302b99e583bb4f0ff609dbf2a6d3"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/33.mp4",
+      "bytes": 4383821,
+      "git_blob_sha1": "c2bba5318c54c4cd8825f7bd6313e239e85f4879",
+      "sha256": "d7b68dd5d6278f2cd8ccc102b290c4a904efe28132c151752fbbbd81002000fd"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/34.mp4",
+      "bytes": 3495768,
+      "git_blob_sha1": "166f4f90fd9c877aae7557c76a7fadc46337d887",
+      "sha256": "a1bbadeef91206f6db070305b8cfc092cc7da3d4d06a8ef3ad20cadae548c2de"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/35.mp4",
+      "bytes": 4460259,
+      "git_blob_sha1": "e1286a704076b5c4c4f4cb38dcc9184d7d05553b",
+      "sha256": "1a6fefee2585bd9d776b1d92c25de4f6711fce71442d4cf4be01330b4ec377f5"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/36.mp4",
+      "bytes": 3956322,
+      "git_blob_sha1": "9e0f77ea94533515ab29ea54f97d74f880cb4e64",
+      "sha256": "8c29407318317f1571793944c888fc1b8e979985245a03001685daf1d2eb96aa"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/37.mp4",
+      "bytes": 7874223,
+      "git_blob_sha1": "4c3fcb65214d700ee66ac569658a510a7baaa1e3",
+      "sha256": "de40befd4ada5cb3f6aa656ea86583e0a627de0b0e5ac65ed3e34815e1be2d0c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/38.mp4",
+      "bytes": 5827547,
+      "git_blob_sha1": "1788f81a1b45f99104c88ff571383d320256c7e5",
+      "sha256": "2d17b802f4a0c7fb1a820993afdc68e04debae9f7869488127b23de744c89c32"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/39.mp4",
+      "bytes": 2284903,
+      "git_blob_sha1": "36fc0f8705b142e97429883460cc0e5621260791",
+      "sha256": "5bb5391b4339f8ed858361918170ddd3ee61632d8dfa854d4499dac16d20d7f1"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/4.mp4",
+      "bytes": 1979575,
+      "git_blob_sha1": "09aa1ed7764a08a3c9a599dec9bf94d8765864e7",
+      "sha256": "c15976a5799e28364ff2c5365e028404031e1af71850caedfe1ec271d8c46d0d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/40.mp4",
+      "bytes": 2263044,
+      "git_blob_sha1": "dbf56632b69d3f8e6e4e9e71f53af0bfac6f86b4",
+      "sha256": "1eec04d7b17ee357f5380c79a67ac51c63298c8a876325454e5323a951d5fcff"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/41.mp4",
+      "bytes": 2959576,
+      "git_blob_sha1": "d582f225d62770f891433ed89cf1377ed632d239",
+      "sha256": "b9b06d54a28edab1dcd24701a54d0762325138cffd111ffe6452dcbf9b8d82b2"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/42.mp4",
+      "bytes": 4320085,
+      "git_blob_sha1": "1d8795cfc00344fa36fe327abfd6419e4fd90d19",
+      "sha256": "6f0dc67981e93347a68fc668efb9ad32417cea77c82dca52281fc94d0c335d56"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/43.mp4",
+      "bytes": 6537687,
+      "git_blob_sha1": "44ce8e1c5b273b488c43571bb255f7297e2fab79",
+      "sha256": "f33e53fb481cbdb0d7535367c2a7fc074280ee1daa01afbc96951b9b5bf0f030"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/44.mp4",
+      "bytes": 3459065,
+      "git_blob_sha1": "489d7e6c90dc31d8da5ecd22422a41971397104f",
+      "sha256": "5f08a166adce59b81c7ee4f716bbc6179bfbdc1c281db9ad697db148f0e9c0cc"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/45.mp4",
+      "bytes": 4287566,
+      "git_blob_sha1": "b6fa97ea4b40ebbbb3f62a9a45c5e94b4063e17a",
+      "sha256": "b2346c5fa0181b4a79397a5c9626d858e40ec2ddaa51e45951dc10cb57409b49"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/46.mp4",
+      "bytes": 2001932,
+      "git_blob_sha1": "636501c867a548658901827660824d3e1d24baf1",
+      "sha256": "ddfa202e72f8bfbd9764e57a0b0181dfbc4c2d36deb3daf61cbdabfae4bd8637"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/47.mp4",
+      "bytes": 3252707,
+      "git_blob_sha1": "dfe869c9fed561b8927b0ae1302c06ecd83380ea",
+      "sha256": "b022daa94c256a141d6dd256cc9104677b469eeb3df3973a0e9b4acb1f5aa9ce"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/48.mp4",
+      "bytes": 3499953,
+      "git_blob_sha1": "616a666d6e54632b3ee98a906e44878d681cb55c",
+      "sha256": "c1d7988c78362995f10865029041049bf90d5ab3f67c9989f0c804a82e046f72"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/49.mp4",
+      "bytes": 4535825,
+      "git_blob_sha1": "bdd1f45139a0e054b21a9019ae565969207cc2fc",
+      "sha256": "ddd054c047ee26cf44c340dbf18c221c954d6ca7fc051aae9a7a496297300cd9"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/5.mp4",
+      "bytes": 2511968,
+      "git_blob_sha1": "b54a9b0e5af5b4d4a35cebeac431fa9903dc41d1",
+      "sha256": "52eb652492a3905e7f03e5bc3675360555bfd57fc638d2ebd2d3a711131da264"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/50.mp4",
+      "bytes": 4667658,
+      "git_blob_sha1": "5dc88261628cff7ec253069e43ab188de56eafd7",
+      "sha256": "86f22e1497c3aacf9e8f6ca31de115d7c25e8e11703cfe0206b07d3787e7801f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/51.mp4",
+      "bytes": 4406582,
+      "git_blob_sha1": "ef05bc1d15398fa935bdd7161336094b905cb72c",
+      "sha256": "ba70b17e471066667b0f270c938015f0fca03656e7cf5984b3eda95f0e53615f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/52.mp4",
+      "bytes": 2016819,
+      "git_blob_sha1": "76e49f2650574a854c2de78bbb655a484a317df3",
+      "sha256": "118fb203a0fc7efb13c9685cf62cbea69eb238effdcb80028a200a20923657c8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/53.mp4",
+      "bytes": 3455472,
+      "git_blob_sha1": "1a48992d0bf82cb08c371371be2992530a5fa081",
+      "sha256": "a758c3bda16e29621c146bab083ebe960878c4e6c8a3291b5f3d4013ea512158"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/54.mp4",
+      "bytes": 5946404,
+      "git_blob_sha1": "1eda6b4f899ad3e6429a642dad0f3f8e667f1f8e",
+      "sha256": "9dd9b7ad89bfff4bb9cd10162c68f6010d9c02f10608e79d0a50800888d3980d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/55.mp4",
+      "bytes": 4414038,
+      "git_blob_sha1": "66a186789803c8c776aa86d7ae29f818b5225f83",
+      "sha256": "92243c567be3b88293f90520255b628c474b13b604d9a64fb57573119cb42e07"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/56.mp4",
+      "bytes": 3041076,
+      "git_blob_sha1": "cde65cc5ca3baabd3f7899816d0c9b17054fda30",
+      "sha256": "6c30741ea1957c3e0825160e4978aa98719007e9697a7b8cf2607d519ad1b04a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/57.mp4",
+      "bytes": 3513007,
+      "git_blob_sha1": "1db6ecdf280a09aa3412f9121e247c5e194493bf",
+      "sha256": "0d3a83601affc451137484891c3b14a63c2d9237c61fe91a4cf51eea4f14eb22"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/58.mp4",
+      "bytes": 2402608,
+      "git_blob_sha1": "25b8c86d054785df5a9023d0dc14d49b539695ee",
+      "sha256": "c78c12868914a221313a2e9f6d1170cdccfab0e286cb9d701b22e4ec80c82269"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/59.mp4",
+      "bytes": 3411619,
+      "git_blob_sha1": "2944b91762675385888870dbdac47316f27bc68e",
+      "sha256": "7aa5aede8f462783a5a182d2315be7a1aaf8abba6629d6681f94096cdc14686c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/6.mp4",
+      "bytes": 2439123,
+      "git_blob_sha1": "f889258e93897a12a625e985239c88b1950b6669",
+      "sha256": "b18e201dd9cd332a7439c964841eb81e8900a32dfd5b828af2cb3936ab21f745"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/60.mp4",
+      "bytes": 3812128,
+      "git_blob_sha1": "dc408f6e2f93303784c5522557207600c569f831",
+      "sha256": "4275ee98ce8d59f94a794a95132ab7cd66bc60c5a1e530da2d8e38ecc3d685b7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/61.mp4",
+      "bytes": 2525565,
+      "git_blob_sha1": "55ac63bc76d6f0fd3cf73bc401646ae5286b29f3",
+      "sha256": "166e3eda688c4b27a2cc7acc12ca8fa8311760bd7fca55c4b3dc02010a98926a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/62.mp4",
+      "bytes": 2842285,
+      "git_blob_sha1": "52d2b22554f8fd626a47e0d9243598280bce9493",
+      "sha256": "b57a4b5d5d89d580de348d5201262164c52b21caa1a6204f9a9bc8594bd6803f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/63.mp4",
+      "bytes": 3302328,
+      "git_blob_sha1": "2d31f1a7b1d63f66a3d02a935b6ca1d8d3e143b5",
+      "sha256": "4d125fbceca7bf4781df05b2cb3de2c1efb5e19c743add6d6c1daa75a3e41ab7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/64.mp4",
+      "bytes": 3031353,
+      "git_blob_sha1": "a0a7f436eb586842b05ca9efbe78fdd12fae2d25",
+      "sha256": "c61706d75451cc1f7093879e4f17fbf99990a24e68a20e2a3eb71e4d4382b189"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/65.mp4",
+      "bytes": 1943980,
+      "git_blob_sha1": "c4032e8470b90da08a39c5ad856703e306889aca",
+      "sha256": "62c60fe3b3ff1bf5690d2033569dce44fa4b1098daeae1a72498d9bdd48ceeba"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/66.mp4",
+      "bytes": 2629836,
+      "git_blob_sha1": "8e9f7dd1b4fce75bd5451e53d81129f8927b222a",
+      "sha256": "8dde89cb23bf3c8552a1dcc43164bee1b794c9688fb899156a8e65193ae4b27b"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/67.mp4",
+      "bytes": 6248079,
+      "git_blob_sha1": "14b1120f43a52a582ade7d8e4a595aa90bfb418c",
+      "sha256": "2656dd66a48b83f66bf4ac870c5926e782e4aa2903383469c09c0afe3b68d67c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/68.mp4",
+      "bytes": 3918689,
+      "git_blob_sha1": "b07729277e1b9593fd14e07237df30c23be44dcc",
+      "sha256": "4b6cf7b918a7c379bb230451625e60aed851cf643084f3ac1ad94f6998c6640c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/69.mp4",
+      "bytes": 3776901,
+      "git_blob_sha1": "4ae0ea6d6dd544a4bd9a2f7c7d3e3693e7224d69",
+      "sha256": "b816c8c3f80a5795214559fa01f071d1038f806869c8a0943005a09355c6c2ce"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/7.mp4",
+      "bytes": 2723181,
+      "git_blob_sha1": "22a69c5ab61cc76b18f7970487d032ed8fdc22e0",
+      "sha256": "34e86452a18f56f33171b78fcaa90119f07f18153cac366e411d2819f3cc04fd"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/70.mp4",
+      "bytes": 1674485,
+      "git_blob_sha1": "731d267264a4d176af9156c0d8d0df27c2d37fc0",
+      "sha256": "863e1083156baba178d83f0b7f89a681d23f0a28a912754dcabcacc74b8a35f4"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/71.mp4",
+      "bytes": 3920140,
+      "git_blob_sha1": "5eb4202e071d982be4b4ac7314e8bfc1e6de84d1",
+      "sha256": "a5d7826f6a6e77077d83fba2b0ef6b2872ba342bfeec8ce8b530a5f711baa4c7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/72.mp4",
+      "bytes": 3613166,
+      "git_blob_sha1": "f0212d76a3c89ccf74ebffa6982ecddf6e177ebd",
+      "sha256": "000cf1d2b4e34c70ce494f5179a2574aefc882f64f81366e90c86b5bf9ae4ba6"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/73.mp4",
+      "bytes": 2712092,
+      "git_blob_sha1": "07523d62294f8dbcfb64676b0711caebfa263fd5",
+      "sha256": "b459cb72777b1f32b4d74df099b2d1aed3116d087e7f1933f4179d3f452e5c2c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/74.mp4",
+      "bytes": 2000133,
+      "git_blob_sha1": "c53c4961f2686db6f85b8c2d42123ed4e3106347",
+      "sha256": "d6716fc7c1944b7b26415dd3e625a97a086a29fd8791e552a36d38ff7ce268fb"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/75.mp4",
+      "bytes": 4034995,
+      "git_blob_sha1": "cb509f7f0027ad47cab377be754f2100dbded13d",
+      "sha256": "d12f1a4eec55ee09220f05cb0bba09975bbb3d1f3e7b3452a1425ea5c4277806"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/76.mp4",
+      "bytes": 4267185,
+      "git_blob_sha1": "49f9b628af89df9dae74ed236aa1db13c679e4c1",
+      "sha256": "52b895a0f75c749e5e64cb159655e0aa6d0527428bd9ee20b739979ce544f060"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/77.mp4",
+      "bytes": 1810290,
+      "git_blob_sha1": "47c819326d3957965a6a5098dbbf0cf4ca7baf3b",
+      "sha256": "6ede81c4877cd2cee5ca7a7526451527d8bc27c430bbd6127b37a3b70274f5dc"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/78.mp4",
+      "bytes": 2103390,
+      "git_blob_sha1": "763df5829f2ff650cf21c3cbcfaf0ca1527d02ed",
+      "sha256": "74c4b355de1ede08a8dce755ee1f0b4ac76110bef839024e8ab291135cf4cdcf"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/79.mp4",
+      "bytes": 1616180,
+      "git_blob_sha1": "2f7cb253258788ba0a4cdfc035d4cdceb1d1d7bb",
+      "sha256": "09167c6a8ea2fbffb6c07472d3521901f236884352b080cab43361114515c1ea"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/8.mp4",
+      "bytes": 4804652,
+      "git_blob_sha1": "9aa349a45490d8c82acf65029a174ba6a2de76b3",
+      "sha256": "fb20b0514fb3579776da00b027f057453756e971a182466268a489800a3321b3"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/80.mp4",
+      "bytes": 2882016,
+      "git_blob_sha1": "c16f48b0020e4a26bf683a0cc7683f9b42dd7e9c",
+      "sha256": "79249c50f77d106d9d2435885638970c0ac98f64b61d951e427c1ca38b82c893"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/81.mp4",
+      "bytes": 3113737,
+      "git_blob_sha1": "1c30dcc8e2cdf110f974c72a5eeb6b54a88f3038",
+      "sha256": "6d8e7243e0eb19ae00725d5dd04b07597ea46a622ae4f8582905c2fb9884fff1"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/82.mp4",
+      "bytes": 4585564,
+      "git_blob_sha1": "7c5391eefc270b5fac42cae3c2e539bf0b3a3976",
+      "sha256": "781521a53eab2d04646e4732092d549ae2d8cb40f08c91d3d49891f4092373c6"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/83.mp4",
+      "bytes": 4064654,
+      "git_blob_sha1": "818b1840a78cb4a0f54db4155336f97146f4434d",
+      "sha256": "a645afe9aba88d1aa2afb079b30cc2adbc6a5d8e206565fd4183b2626619599f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/84.mp4",
+      "bytes": 2759916,
+      "git_blob_sha1": "818def5298846ff2671d8af280d7602ab0cbc398",
+      "sha256": "6158f3ad0531b0e8dffae0fa81e39203fcc77c5d35fc788de660753eb5c23fb7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/85.mp4",
+      "bytes": 2005380,
+      "git_blob_sha1": "4933124d93d17a18f0df4bf77119e9026c6f3c8b",
+      "sha256": "1ec9f66883e0ffd4def0ee3baea178a326d14e2d8360d9ed82eecb1bdf634815"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/86.mp4",
+      "bytes": 7422403,
+      "git_blob_sha1": "601bd72503343867444e67a611d9ebd728b247fa",
+      "sha256": "0b9e0bc3016f8a5225745d9146597ea24cb2951ec6a9693fe1924414e2c7921a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/87.mp4",
+      "bytes": 5217142,
+      "git_blob_sha1": "342b38cbd9e9d8ea0dfde0dca3187e2ff4851901",
+      "sha256": "3ed3a8f1536f16025a0aea5d1aa27a4253bc9819ce7b56aea558fefb38117de6"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/88.mp4",
+      "bytes": 4657088,
+      "git_blob_sha1": "5756415e93f53bd2fc92d35ef2e6d0bfdb602613",
+      "sha256": "059d91c05a703d9f3e1e5fd96bd581b34a5dc059be1b58566033ce1cca240e61"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/89.mp4",
+      "bytes": 4076443,
+      "git_blob_sha1": "4aad9d5b4fb802ce1666848b75fbbca7ee085ff0",
+      "sha256": "b6a96769a36bbc69257a7d84a41bbb2d0db457d52ac6675eea159156cce03ac7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/9.mp4",
+      "bytes": 3796799,
+      "git_blob_sha1": "304ecfc799e579bedef8d2a1926bbfd208c7ed92",
+      "sha256": "1ee09f90f9e36db91885b5d9f90e981cd7fe448efcbb01ddb0cc8e4595609ec3"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/90.mp4",
+      "bytes": 2815953,
+      "git_blob_sha1": "7f6bd9cbc8493c3476db2517474cb6a3c3ab1242",
+      "sha256": "5beb92eb265d5ccd88ad2e81562fe5c26a86c4ee4b4e726c6c9711d5620af9ad"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/91.mp4",
+      "bytes": 3581315,
+      "git_blob_sha1": "a6a01db0b04f069e76a95e844f60825a3e2682a7",
+      "sha256": "8751bac50a4a3ab71917beb6e9badc2f2563748813c2a8a7bacfffba27547eb9"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/92.mp4",
+      "bytes": 3537505,
+      "git_blob_sha1": "d7b692347d061dacfbd9128ac376f325960e9b68",
+      "sha256": "45c17f8228cf1dd2afbcda13d634a0846784c3a1150a69b807ad163330eed887"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/93.mp4",
+      "bytes": 1690082,
+      "git_blob_sha1": "e2aced30048fa3767554778969956550692b8a27",
+      "sha256": "376146f85b2ca311b3d55561157e1b9ab0c59456c989c322f8a02e8b35a55133"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/94.mp4",
+      "bytes": 2365684,
+      "git_blob_sha1": "7b92d7eab0f78063a1ca2c50dcff200d4b21f282",
+      "sha256": "bbe9e3c6deeb21d8b120cdfe31dd57f27cd3deba80f17ef7d7736f145da9adb1"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/95.mp4",
+      "bytes": 2384200,
+      "git_blob_sha1": "cdbd65ddaeb76dfda839605d93e5e4072afefc9c",
+      "sha256": "ed1a53e1ffcfe2301ec8774570868d7832df6e871b571f935d0a483ecc011b9d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/96.mp4",
+      "bytes": 2077900,
+      "git_blob_sha1": "b7437d6d6aa26507e5755d666592fdfb0ddc4ce9",
+      "sha256": "5ece21bf2f7ecc9d66763d4285760b21c2b8a449e01e087b2a7ea2c96a2a0e52"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/97.mp4",
+      "bytes": 3488228,
+      "git_blob_sha1": "acfe5a06217581c18d370983bedca4fd9fbb3767",
+      "sha256": "c6708441f85ed2eb5df0a2f770ee091b0cc48ece6a914b5874dac01bc45aec77"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/98.mp4",
+      "bytes": 5127916,
+      "git_blob_sha1": "910f56d377b863a6bc75b3ebb90655884c0f633b",
+      "sha256": "ea0b41820c4883dd365dba91aa06ceb9ea95d2b5ec6c6300fd56dc31fa409092"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam1/99.mp4",
+      "bytes": 1746145,
+      "git_blob_sha1": "5a5e73292b64c21b015b03b12b74cc02e324e3fd",
+      "sha256": "1becb347c461a8e73fc7f901c36eca64745ea9f05fb6f50edc0bf1d8c3447e04"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/1.mp4",
+      "bytes": 2109481,
+      "git_blob_sha1": "b9ac37affddb2ac09e152e09f874a81d8867edd6",
+      "sha256": "55c007a17bea85b730dff33c0c69b0ee8b25c2330d0a3265a0785a1e08078008"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/10.mp4",
+      "bytes": 3729107,
+      "git_blob_sha1": "ff101f6547b3dbad441912978af6a60d0021f1c1",
+      "sha256": "dda7f5325e1c52c0d9ee3a8987eafb1420d06a6e78eec64c87b13022042fd9d4"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/100.mp4",
+      "bytes": 2214366,
+      "git_blob_sha1": "85d4a61d0d1482e5314ebb40560120c0b02f107d",
+      "sha256": "fbe1f7024f5d9d118e02960952a0d0a50d7ed29298568197f4de42e749fdbb02"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/101.mp4",
+      "bytes": 3302734,
+      "git_blob_sha1": "edd7bd365a5b463ca583ec5c444ed02499fa6e6a",
+      "sha256": "262a1f6653d237cf4246f64286182f0025e6e28766072ab579fb83c4636589d2"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/102.mp4",
+      "bytes": 1984444,
+      "git_blob_sha1": "7f60ba6bf6237440dc6192992cfc32935ae3d990",
+      "sha256": "4331fdb6350ae030d1a12fc21d401e145f23140f2ff1a7a8e3e1f7ea87037aab"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/103.mp4",
+      "bytes": 2794584,
+      "git_blob_sha1": "128dcbdcc092e5a6bea8c987827398bbea9b1a22",
+      "sha256": "f2a6bff5c71088aa1eaab4b2d6e7a76d8b9ae820e21ca7abef03c75f60b7aa3d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/104.mp4",
+      "bytes": 4660767,
+      "git_blob_sha1": "805e03ce88cd16f4dc680f0eec0c79cf25d453cd",
+      "sha256": "452a6b9599aeeefa547b5da70f59c5e0bb07cf40e714eb201ae38833f9b1346b"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/105.mp4",
+      "bytes": 1995388,
+      "git_blob_sha1": "9f1f7b840c307dbc366ada5a9f8f443825b85a7b",
+      "sha256": "3f399f0131c48a1e1835ef612c99effe1051156f8d53a6bfd7890a8dd07991d5"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/106.mp4",
+      "bytes": 3210861,
+      "git_blob_sha1": "70a0575d9e2ac9d323ffc0d9557a045b7778a7c8",
+      "sha256": "49ff0914701fc46dd24880260288a78464e93078b962ab92b895d50f28233834"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/107.mp4",
+      "bytes": 1963665,
+      "git_blob_sha1": "77f8786994cf0c6fa1e1deb5b3cbe94db7b77de1",
+      "sha256": "208edfc83e7734ee5760b73cfaa60693db587a01c0ccc69af971adab8d75c7c6"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/108.mp4",
+      "bytes": 2995647,
+      "git_blob_sha1": "2f132edb26ddeb7213ba547f2160971f0c22a002",
+      "sha256": "adf2d204092bc84d12da79023d39199bef306bc7c2e2bca01646642941d86f2c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/109.mp4",
+      "bytes": 1941183,
+      "git_blob_sha1": "16cfb69bf18edc5c6b31183239fce51931c5ae16",
+      "sha256": "4459faae2cc1021f67eed04fb802727071e729918d470c820fc598e3da65b1a4"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/11.mp4",
+      "bytes": 2513155,
+      "git_blob_sha1": "d5aefa917638bdc8fee39f8dceda3239f333b519",
+      "sha256": "2cfe615dacde2e74055c48fd5158e75d1f2dfa4578da32c15038ee7ccbfd074b"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/110.mp4",
+      "bytes": 2324728,
+      "git_blob_sha1": "e50abd3f4b5bd5832876f0e78b192a2fa6eaf1df",
+      "sha256": "99f604306312581c3acb9c78098c2f58bc67ee67cde86c3122ec2285b1fc1193"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/111.mp4",
+      "bytes": 3961142,
+      "git_blob_sha1": "db0222c0b692bbfc3552973fc82d46c977ed3cf3",
+      "sha256": "28c83ac7c6f1d35c6cd8d9e96264b6b178a8f95c968fd0120a49b5194462f119"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/112.mp4",
+      "bytes": 2160929,
+      "git_blob_sha1": "58276929f8f8e4b66127591bc6c04000e09ee58d",
+      "sha256": "cf1fe48085e36783bad80a419f1d0641ee29636ac9f86380c11f42fe2cac3943"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/113.mp4",
+      "bytes": 3490594,
+      "git_blob_sha1": "0a8b9d20d53a78f325f81adbf7c989ec17effa40",
+      "sha256": "abeacc8d55cf2fec958df28898f3ded2565e01e1d3463be22364d1a8ef210bac"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/114.mp4",
+      "bytes": 3179801,
+      "git_blob_sha1": "8bfd5b8b4754a5b5119c1d7339af41d4e0d11205",
+      "sha256": "c989c01a4bfda69244b550d602ee750fa396d1692f549c61779521223efea93a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/115.mp4",
+      "bytes": 2805818,
+      "git_blob_sha1": "6604e8696eaf84e74dec54783b43690ec5485f3c",
+      "sha256": "f36dca2323c1a108a0ebaf446a66d89e686aea0c8edb3e0984b8d58774c11e58"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/12.mp4",
+      "bytes": 3251014,
+      "git_blob_sha1": "ddeb27d24197caff940abc44257e7f3e9e484195",
+      "sha256": "dccc7fcf76bf9109a1d75b8ac5a19e502e2f952f9052ce29b7680a363800746f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/13.mp4",
+      "bytes": 3292305,
+      "git_blob_sha1": "fa43c73a39782a6b85df4a35f530df54809860dd",
+      "sha256": "295705d766356d7114b1ab24687233029e3fe971763c34ec622caa17d2f7b52d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/14.mp4",
+      "bytes": 1738988,
+      "git_blob_sha1": "2c867f25c7b96944956fefba551f47821b970346",
+      "sha256": "d3b2202190ead1e89c14a594f2d03fe645a1f1bb7e5b74415c25bfff2c6d7935"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/15.mp4",
+      "bytes": 5348513,
+      "git_blob_sha1": "0baf7b6ae0b3639d79c574d381c56a5a40c0c4aa",
+      "sha256": "df89f344e6dbfc39acae564669dc95139fcc84478573a88a37f593a53b5d7266"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/16.mp4",
+      "bytes": 3497338,
+      "git_blob_sha1": "ebe1055c4ace7d068b299807380373c309eceb3d",
+      "sha256": "1826fab39a4e5a3436b31853ed3e5622e0ee713a7d6f3ade4a8bc43e4328507e"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/17.mp4",
+      "bytes": 2057080,
+      "git_blob_sha1": "cd385567c50ef43d7da2b06e11a098831fa9f3b4",
+      "sha256": "acd844023fb325f8b5b3f21724e28536f0ac8a0e761a473c0371558a12be910c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/18.mp4",
+      "bytes": 2950017,
+      "git_blob_sha1": "6b80db052e7a0a940e6f41525d4940a79115aa5d",
+      "sha256": "9709a0f1b154ac1b8c1d0c0d4179083a7f6b9374e1d21a4bee7810e726c4d7e7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/19.mp4",
+      "bytes": 2825600,
+      "git_blob_sha1": "46efd06a00c021ba2e2892a075946e52c24463fc",
+      "sha256": "11cd116bbac1b681ccbaa4f8ab953033c3458797b397ab2a473c2a84f93da168"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/2.mp4",
+      "bytes": 2345011,
+      "git_blob_sha1": "a1b8ed812796d9a21d0382ad976fbfa93defbf52",
+      "sha256": "6456c802ddbb096757f215185b093bf21a308463b0446d2b57b30b534845a480"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/20.mp4",
+      "bytes": 1767318,
+      "git_blob_sha1": "f6ddbfc44b2075a4ab231fa935449d681e735ec2",
+      "sha256": "4a64496f3075b18deac9f48ceb15c8403d55c0176113756c72a98e5de9beb7c6"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/21.mp4",
+      "bytes": 2910109,
+      "git_blob_sha1": "da5a1fd6a3e6301911ec615054cfe7759bc17aa1",
+      "sha256": "6f2f63be5766bdc52c36f0688ed5b76b0def05db4a981f896841c0a447d516ad"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/22.mp4",
+      "bytes": 2074681,
+      "git_blob_sha1": "306ba0aeb09a08c6881beeeff4bea714855c7b98",
+      "sha256": "3c955627db6c8c7e8944cfa3b798517d408792399422b6ab316b923f09318e95"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/23.mp4",
+      "bytes": 3507003,
+      "git_blob_sha1": "c6c4562334535a330a4ed88bb89f7aab44bd4753",
+      "sha256": "2d6cef84f07c88e672287c6389745a66dad862766979dad588747fa7cf887fb7"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/24.mp4",
+      "bytes": 3010621,
+      "git_blob_sha1": "28b8dd38973edefbcad5e2e96e0f42ca86dff65f",
+      "sha256": "4529c542e6b1f190c861a51a958f3022e0fc270d2c8aa2e1614a56e053e63572"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/25.mp4",
+      "bytes": 1852643,
+      "git_blob_sha1": "65df932c32e98e5ce1a54dd56fde6c2310549e23",
+      "sha256": "7a681222f2490bf449d253005fbfc485428b4229b8a10518a073afdb67b115e8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/26.mp4",
+      "bytes": 3675898,
+      "git_blob_sha1": "98277543aae992765bc25717a52f588c91dcf6ee",
+      "sha256": "c594c54967df7beb6daa33d7be762a1e53b7de71a71711d9a0231f3e84a485c9"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/27.mp4",
+      "bytes": 2818240,
+      "git_blob_sha1": "fbe0c9f84f226b248872366a3f163955012be387",
+      "sha256": "ef5b8d5a92b5747cfd7cc869a6aa0e99466478c25d67fc2be7edddc0bd7d533b"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/28.mp4",
+      "bytes": 2503115,
+      "git_blob_sha1": "d894f46855bb0f29757e936bb4846504c8a88c3d",
+      "sha256": "7837b0b8df938720c6edd25811fef288b0158ad3075499859cdabc4071b35432"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/29.mp4",
+      "bytes": 2519969,
+      "git_blob_sha1": "0ef6b2e0dc20d8b65b621466ab45a8b294f5c4b1",
+      "sha256": "8833206a283c41e4c3ee1b552f16960f74a04c09b3db2bfa0973f189527e4342"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/3.mp4",
+      "bytes": 2679854,
+      "git_blob_sha1": "36dbb5d3be17a2835d08e173282c99d0f361a45e",
+      "sha256": "eba9621effd936fce0eba8a8b6013f18b1b9b378d5edca791aee3cabf38ea70e"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/30.mp4",
+      "bytes": 3917389,
+      "git_blob_sha1": "1359650e90e53b2a6a2ba35584370e98d8886588",
+      "sha256": "8d5cb5fb060d8eb897ac5573f24d954f30887fcacf55d720140841819f595b26"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/31.mp4",
+      "bytes": 2947708,
+      "git_blob_sha1": "4be966105f6446d1e9e24d62272f00bda352f780",
+      "sha256": "99ce488df7abe0bfd4d9b5e1f9289ecfaf9986c8a814752b786a145f52f23775"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/32.mp4",
+      "bytes": 3240884,
+      "git_blob_sha1": "c161576e35736433ac0599f8afc3a8464c3a6432",
+      "sha256": "110ecfcda352133e1b1452afa01ba39225c265ea9fed379a7a08e16e975a8fef"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/33.mp4",
+      "bytes": 3864729,
+      "git_blob_sha1": "c7958f91095f0970354f4fa295f96420183f07af",
+      "sha256": "f54afd37d409d03b066ac59bb39cbf5b5e294747d27e90dced01365d2f798854"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/34.mp4",
+      "bytes": 3487569,
+      "git_blob_sha1": "20ee94457affa11b5367b4048e285a937d3d3f72",
+      "sha256": "d43a93f20fc6f5d60e2adf977f070b6f17e15e3d2235700cf485ef00bec7b8b2"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/35.mp4",
+      "bytes": 4067777,
+      "git_blob_sha1": "878c303e0098a109a1064556b5702ed84348304d",
+      "sha256": "a06c7c4ca2b670e4e91b6173f8cc99ed498d7c2bf531a7970818e3b526659865"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/36.mp4",
+      "bytes": 2412711,
+      "git_blob_sha1": "b6fba8d4bee0a139644e4bbc11cf75f9c00673a3",
+      "sha256": "1919dbee0d48d9d327acec3fecf8a512cfab4cb609db90923e9d705a7d082882"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/37.mp4",
+      "bytes": 6831666,
+      "git_blob_sha1": "87e9d59c4b5ea4ac2b617e635063cde09e50fe1b",
+      "sha256": "d2f2d7a8fb72fb59b2c8326b0d26d7bca504a1a3ff11dd5ba16bcfb837d1b6d4"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/38.mp4",
+      "bytes": 5357048,
+      "git_blob_sha1": "dc8011e9732a34891b75be1978dbdc77a3f490c3",
+      "sha256": "fb2c38ca686fc2a4cb21dd68fb7eed8568110c4f5352793a83bbda177b6cb1c8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/39.mp4",
+      "bytes": 2031135,
+      "git_blob_sha1": "ceb6be0e7bfec843f0d833e1454d72ec0eb3ebbe",
+      "sha256": "a6ca8fa2403742034fd290e04b7550505585ceab18f8a3b3e407e5fa4b874d54"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/4.mp4",
+      "bytes": 1559636,
+      "git_blob_sha1": "254284a27faf749722c2b3ec56f4cd38f16fb29b",
+      "sha256": "efc8b3c004d4673013a568330047f8851635d6ec81ebcda0c804480913b0fa1d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/40.mp4",
+      "bytes": 2171468,
+      "git_blob_sha1": "c7881614b655499a45d972762ff24df8dfbcd65d",
+      "sha256": "c4aa853ba4474fdc828c3a6f6929b017d174ea066a34041766fde933269189ec"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/41.mp4",
+      "bytes": 2778730,
+      "git_blob_sha1": "bd5f4036b7b18d98d18eb7f711de84559025e0f4",
+      "sha256": "5f205fb145d07f165b9e9ec75be7fbdd69f147c416ec6da91aa0f6c5079828ee"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/42.mp4",
+      "bytes": 4125267,
+      "git_blob_sha1": "c40c1d243774e2ef881614f4933ce2e9389fcbc9",
+      "sha256": "51df8003611c08cc4f31a5e98b851f9966f8ddf31a74ffc48d533e16f4d1138d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/43.mp4",
+      "bytes": 5984647,
+      "git_blob_sha1": "e9aa4dad70085d5df829a83bf25de175b0e05646",
+      "sha256": "db6eb4cc8ce7d86947cd3142436b13e7e65d9e5bbe1129eba3ddc8a1468c7ccd"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/44.mp4",
+      "bytes": 2903522,
+      "git_blob_sha1": "71cbbc2764cf45375b076df1ff75357c8891c0fc",
+      "sha256": "b9aa87f5e65c12caa5758be1748fda6ffa009795a5b20d829f886c5f728daf05"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/45.mp4",
+      "bytes": 3869339,
+      "git_blob_sha1": "e20bded6c79eddf4da23a8b497ea21e201ce0779",
+      "sha256": "a179eee4a5c6e7cd4548ee5efa6b351ec4d57ea4eca75302105dd1a01c7000aa"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/46.mp4",
+      "bytes": 1917204,
+      "git_blob_sha1": "0829c07c11185633c767215a5d5a1cc234751a0e",
+      "sha256": "288302bd50102b56180d90cd71d1f3f9418c7b0f1ba1d252f98528769061b69c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/47.mp4",
+      "bytes": 2979355,
+      "git_blob_sha1": "ab722f05cbf7b1c1f002beb800afd7cb9ce5f57c",
+      "sha256": "9f6d8f7601732a88e472f80e4ca28313eadf272fa17c884e543522442368aea2"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/48.mp4",
+      "bytes": 3411919,
+      "git_blob_sha1": "4a37a2b85f232527ac877631bcea24d93b96448d",
+      "sha256": "fb3caf42f488613eb127e677bfcd376434ed7e43a362e7dcf3ab8eeb733960c1"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/49.mp4",
+      "bytes": 4381295,
+      "git_blob_sha1": "0f9db01481e8bdcc76b540993a6c37cc27661626",
+      "sha256": "cf36979aa089cbffe4efed6b328862137e44db0156766b1983134bcf82317487"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/5.mp4",
+      "bytes": 2180638,
+      "git_blob_sha1": "7acf88a879eec04bfa9d00c1aac4a2a7b23eb106",
+      "sha256": "2c76b1753253d2185c6e13f534a417b7f7e3976d2ab28c6b85e9b5ee73a2ed4f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/50.mp4",
+      "bytes": 3618439,
+      "git_blob_sha1": "4d48088931e846c34d48f926f879ca3de1df66ad",
+      "sha256": "dd4647ce94d7ba36caf54e986a55eca46c3bd86bb62a0f7a734fbd5c2507c4dd"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/51.mp4",
+      "bytes": 3339854,
+      "git_blob_sha1": "624f55c81c4ee7c8ad58ea63292c51abd2507675",
+      "sha256": "f6e3a0ff8e15eebb18020aff9d3612ad7c9d0e6fb374f21fbfedffd51724919f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/52.mp4",
+      "bytes": 1659771,
+      "git_blob_sha1": "756423d694b6534d2244866e890b00267bc9061a",
+      "sha256": "eea188332ad7867f95c8db4b434af65c0dcb85afaaa6a70181d2cdc930b05813"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/53.mp4",
+      "bytes": 3128727,
+      "git_blob_sha1": "c1371cbfe230539f027494bdec428a7d547fcce5",
+      "sha256": "25d44119de01b522a589a576f7192fc7f05f757fa4e1e6e7b82deeeb6299f70f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/54.mp4",
+      "bytes": 6148647,
+      "git_blob_sha1": "0afc5fc78717f294f57b2ec664d62d7f0e4bec2d",
+      "sha256": "58281ba5f9bdb89582d0fabe6f3abf0c9110ce7c747e49b0079b8b3909d79e6b"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/55.mp4",
+      "bytes": 4940178,
+      "git_blob_sha1": "1daabe0ac46e53f8d6f3e5db9898963bcd2e0400",
+      "sha256": "36d3f043829e408a7a47d16c5a353dbefa27ee179fca482bc3520493e4af37a2"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/56.mp4",
+      "bytes": 2604190,
+      "git_blob_sha1": "d2a709733319047698e54b9ac98729d4250fb74f",
+      "sha256": "f3524180a6fa618f2f84e5281e441a3e9bafd37fa960664bea8b2a8f4132e815"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/57.mp4",
+      "bytes": 4262849,
+      "git_blob_sha1": "2dcfbe2e7faad3fa23f0b32669020b671a5e6dc2",
+      "sha256": "d3981af404b53962f2029ebe09831fc822267b244a4fc6874a1658c51e51e737"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/58.mp4",
+      "bytes": 2642112,
+      "git_blob_sha1": "253646b9ece40c7739cfa0379bd2b220be2cf118",
+      "sha256": "d47f3291ba3050b5867b9c0ad9395384e3d4f963293b351be24bc43e7aa0717f"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/59.mp4",
+      "bytes": 3870839,
+      "git_blob_sha1": "c060ac0e1bae2cb65f339fa5ea4fc3ee2445564d",
+      "sha256": "70a333bb798bc2a8b6e63b88aa661afdf38e37c112a80afc6b1e5459df1b90ea"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/6.mp4",
+      "bytes": 2185638,
+      "git_blob_sha1": "27c2892fcd71e25440a36720182e49f620a9ac79",
+      "sha256": "e27224ac4daa3d6cb9681902a45139cc0d561cee17eac9dec4add0794eab7eb5"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/60.mp4",
+      "bytes": 3140836,
+      "git_blob_sha1": "fd88da03730955d3d4f99ff09fa56c01837547e3",
+      "sha256": "ac3a6e6cff83b6f7e500125f9cc3326f87fe305757b8b1c50be6acc3af5d1796"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/61.mp4",
+      "bytes": 2769375,
+      "git_blob_sha1": "13de1863161b5a64c08fbad958a3a7be3ce60e82",
+      "sha256": "860f63eea41dd0e2f1382ed5fd3d2117d357acba9140b2228206aa9515e4aad9"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/62.mp4",
+      "bytes": 2750388,
+      "git_blob_sha1": "437f589e86de83f4110e77ac4dd81640be004d04",
+      "sha256": "9639d560448cc11b290232a0c83142912485b47f0e64980111b53ee55c747886"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/63.mp4",
+      "bytes": 3448611,
+      "git_blob_sha1": "9a79d69c995aa2176b59f7ad9848451553d562f2",
+      "sha256": "1dbc9acd04464ccfb41692e7adfce434cd8145ba455017ea8e080a5c8f71ef07"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/64.mp4",
+      "bytes": 2890861,
+      "git_blob_sha1": "6227e07ee78f267d81a289ad0571ac9dca349929",
+      "sha256": "6a4fd6bb1eb5cf41c86bf6c0ce0eb6699e3346a2432fd8f39f6a2bfdb67525b2"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/65.mp4",
+      "bytes": 2395255,
+      "git_blob_sha1": "4fb3079ea2fdba43a764950af09a7dc359045e04",
+      "sha256": "793e3454373f9d2c8510903b415b3529587e2dab3040999d7b10c431783b4179"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/66.mp4",
+      "bytes": 3129511,
+      "git_blob_sha1": "561024899895a5dfb17e3640fe969ddf894d7d6b",
+      "sha256": "3c0a4dff9d1f9dc9e55429ee57acc9ed42639bf2ed0a7de693e8901d75737d5c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/67.mp4",
+      "bytes": 5464709,
+      "git_blob_sha1": "dab260194cfdaaf19b53c4598fde146e7b78daa4",
+      "sha256": "d7b20fdadcd8f9fcaa89521bbcaa77abef6f3e3b76a60de9dad8075fe06acace"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/68.mp4",
+      "bytes": 3689463,
+      "git_blob_sha1": "4647b7e8e019f3addaf66e7cab8db1e8d82d0825",
+      "sha256": "0a7d7e433cab202153a7e437f5f85140d61da56ee6ac7f060313634d8e064f92"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/69.mp4",
+      "bytes": 4134710,
+      "git_blob_sha1": "88cb9a6e8ada26f159640652c113f934a7dccd1c",
+      "sha256": "c587629dcc36c1b3912d53d648e692a9f28267d0bd88b463a417a0cf7c98e1e8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/7.mp4",
+      "bytes": 1870054,
+      "git_blob_sha1": "689b454fea5fde8425cbdb314fed4f85f4a44c57",
+      "sha256": "6ec8ee550eefb227df959d1b07a0fea3a5cf73d71ba2b38bd89abe98b7679c83"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/70.mp4",
+      "bytes": 1647912,
+      "git_blob_sha1": "71416177957d462914a5229e9c2234c14b70b11c",
+      "sha256": "6cf2c55d3d907f08cb6c660b5ba70d535ebc61e3a6e6830370ae305196992116"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/71.mp4",
+      "bytes": 3280932,
+      "git_blob_sha1": "1d335a9147a5cc55598888b11141313427fb4741",
+      "sha256": "5a476783a72f70d6e941d96c6085fde1684a27f6f7120bd6c16f397e94f287b2"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/72.mp4",
+      "bytes": 2949327,
+      "git_blob_sha1": "f9c5a633e6b2d6c417ef45e06b566fd087f752d4",
+      "sha256": "9f1bfe73c16a941f7c8b5d3f82ae7e4eedb9109c60f84fe9b6ed296dc60d9b3c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/73.mp4",
+      "bytes": 2563183,
+      "git_blob_sha1": "a3c0ab451e01650d7ef3a0bc7b81f1aa792785f8",
+      "sha256": "697395492ef8e95ea8b321c6902ab698008f8dfbfcf22d924ebaaff4d7744534"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/74.mp4",
+      "bytes": 1994169,
+      "git_blob_sha1": "50349a21a5bdaa42e1aef5649104ce09ccfaf4eb",
+      "sha256": "22787d0bfb0d6434840d7933508baaaee4c2fba97928527f014aed0737b71566"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/75.mp4",
+      "bytes": 4586307,
+      "git_blob_sha1": "e081ad707379709fb54ce3c6e533e4b68be6addd",
+      "sha256": "c9ee70ad3318bd64a6d43066317eee6e4f590791f71c77a0641c78ebe5426d13"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/76.mp4",
+      "bytes": 5316952,
+      "git_blob_sha1": "bdf94b15cbef3aace3294c177d694c7fada6c903",
+      "sha256": "ebf5cc01515d6c444fb328f884b3e2d3d822422c84dfa4edfdaaadb613a53f76"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/77.mp4",
+      "bytes": 1893876,
+      "git_blob_sha1": "1dfc42607071b487367a836380cc24d05b5288ec",
+      "sha256": "be34b784b83f6a9e7efbd6df19a6b26333abbdbdaf98457ac185092a95dd3391"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/78.mp4",
+      "bytes": 2541040,
+      "git_blob_sha1": "2db639e8ca9c8fb9496d590e274a8449fd644cea",
+      "sha256": "91222203915692ef9a0aee2559de941e8593e90b2ec1fbef20f7566884cba78d"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/79.mp4",
+      "bytes": 2070251,
+      "git_blob_sha1": "fd7f7cf3acbf3e8feb61614bf26e88f5cad978fe",
+      "sha256": "46613a67c6238f7ba76f8deacac01702fa7ef8b97c6122da756077bad9abe2a4"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/8.mp4",
+      "bytes": 3711539,
+      "git_blob_sha1": "a18cc08698725291cfd3fb6bad29408b3b890068",
+      "sha256": "142f86f75838ab15644211c6bd8a01b247e17ed2809bf85eea75b3ecb3e9a9ed"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/80.mp4",
+      "bytes": 2735049,
+      "git_blob_sha1": "7e107385db1b889fa405f16c14d7eba2bfef4c6e",
+      "sha256": "602c0c546674b342e188008e38d04ccffc3933088d7e9730e0381206bbc131f8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/81.mp4",
+      "bytes": 2717712,
+      "git_blob_sha1": "7a62682744b82fadc86e3adead1135fd81083819",
+      "sha256": "331bd8dd2a1ef8afdd4fa921e5e5aba02f3c0fea388ad8a7d35388abb5085f42"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/82.mp4",
+      "bytes": 4206593,
+      "git_blob_sha1": "a192d65c807e5335c283285814057d8a5d01561a",
+      "sha256": "dd226780988f626ad78ad24b07ecc424922d5a91e4975e00e83b5ccdc50663f8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/83.mp4",
+      "bytes": 3647962,
+      "git_blob_sha1": "afc3f167187d75994575cf251d23e607ae1afb37",
+      "sha256": "f0c825753cb60e15dc5ca02e6972bbc76da4303e7cee09660aa4f3fbbb98b98a"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/84.mp4",
+      "bytes": 3239362,
+      "git_blob_sha1": "12665ecb747c4b010e52e98a6f8bd8d9e8fa2532",
+      "sha256": "e2ef9e78a361638e24a17c922ef1f5af227f48f19890be27a414d2cf8b490719"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/85.mp4",
+      "bytes": 2470159,
+      "git_blob_sha1": "9801e75330e1ddaaf7743c90494eb04a533daa8c",
+      "sha256": "3d7cd9ffe08e75cabb236c6823bc9ddfb5b2ce016152c20db21a5096b6eed6a9"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/86.mp4",
+      "bytes": 7297852,
+      "git_blob_sha1": "0edbc5a77ed6f1ec3935d1243a29b31935ed4551",
+      "sha256": "b42c6a1aaa6e34359a0672055ad5b3f4c3703e47442ca24394c17844cb921b86"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/87.mp4",
+      "bytes": 6222555,
+      "git_blob_sha1": "8c203c71065bc28109124aeb35c4fa15c0809a15",
+      "sha256": "a8893c380048907d7be5902a97c620667bdc310f0d50719950d2b964324f7324"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/88.mp4",
+      "bytes": 4279999,
+      "git_blob_sha1": "5967f50acc303487655882ef68aab6e40cb39a0a",
+      "sha256": "4ca3f1d6bb16a72ea80a73e2cde3fb854e5ec3bf0cf3340b089cf3fdf5768b73"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/89.mp4",
+      "bytes": 3379021,
+      "git_blob_sha1": "b474185f534ffeec1664af91988d6f0781fb6451",
+      "sha256": "4399623f8dfe8642ded5b85b5ea5b313539bebb9cc2a09ad600830ebed39ff90"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/9.mp4",
+      "bytes": 2975308,
+      "git_blob_sha1": "a938ffcda1778963ffe1e25e589f2fa71f6a08f3",
+      "sha256": "6ae7e095b3654988f54011c7617208e0c14889b01fd15900de0c9034f8986334"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/90.mp4",
+      "bytes": 3471382,
+      "git_blob_sha1": "e10421e83cf91eb1ab6ce2f5a7d5690946952386",
+      "sha256": "040d14171225087a4679d3789aef06064d0d77aff1ed12c7cdc198cd49886956"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/91.mp4",
+      "bytes": 3471839,
+      "git_blob_sha1": "ef906997b9cc6b1530c3dad82579329ea4155de9",
+      "sha256": "4caf2459077fb563d889eef1e888b79cb41b41073726318c6f1077d31a020694"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/92.mp4",
+      "bytes": 3198611,
+      "git_blob_sha1": "fc9b9fae64ca85a96eaede99aa32d86c0d92cf33",
+      "sha256": "eea7eeaf1cb8666371ac0df7248338e88c82da3bb427a46ec25838f0825e44db"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/93.mp4",
+      "bytes": 1723654,
+      "git_blob_sha1": "2fafcf6866588b983d798ca16684bd4b52633bc0",
+      "sha256": "cf06885eb323c56442a34fe4bacdeebb5f888f5827c2abec561f33d90f6b9fa3"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/94.mp4",
+      "bytes": 2403329,
+      "git_blob_sha1": "e0101a7643a36bc1f54dc9f758cf1081d1936369",
+      "sha256": "12754504c306def44e9c4a00c6f41896d847d4cb41de37b7aa1f72f69911c452"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/95.mp4",
+      "bytes": 1941773,
+      "git_blob_sha1": "4f749c9bcb5ed45c720d748d98c591b088d46916",
+      "sha256": "93e0718de722b762cd24414d9f1423fb523c31dd41abcce73f5b364983fbdddb"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/96.mp4",
+      "bytes": 1732031,
+      "git_blob_sha1": "c93b769dae13450d6903d0cf7b3444c7b903a7b5",
+      "sha256": "d108892fb289de462e7ae19d6e6edef4908c4eb7380c9843019b99460eb7535c"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/97.mp4",
+      "bytes": 3153939,
+      "git_blob_sha1": "ee11ac72401a197883b51fd38846146f45c16677",
+      "sha256": "7aec3c38dd976c2c2ff1927641caa79965b76e9e460826d462c123460e514a5b"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/98.mp4",
+      "bytes": 5516594,
+      "git_blob_sha1": "0d8a8c634622f85a1f85f98f9210e93a36eb0936",
+      "sha256": "22b84e6b180a88bc0c9f4197101704da823375c84dde903514061231fda986f8"
+    },
+    {
+      "path": "violence-detection-dataset/violent/cam2/99.mp4",
+      "bytes": 1520642,
+      "git_blob_sha1": "a50b9303c499c8cbc81290d5d6cdb8a2fb237808",
+      "sha256": "639ef6309e62e4e29ac98d13c0a93c9aea8a99a9e270225ca57f97b6358a007e"
+    }
+  ],
+  "release_terms": "Freely released for research and educational purposes; cite Bianculli et al., Data in Brief33(2020)106587, DOI10.1016/j.dib.2020.106587. No raw media redistribution in submission package."
+}

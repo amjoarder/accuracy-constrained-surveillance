@@ -1,0 +1,8 @@
+numpy==1.26.4
+torch==2.6.0
+ultralytics==8.3.116
+opencv-python==4.11.0.86
+Pillow
+PyYAML
+requests
+scikit-learn

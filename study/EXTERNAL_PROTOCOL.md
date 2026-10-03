@@ -1,0 +1,11 @@
+# External AIRTLab clip-transfer protocol
+
+The public author repository releases350 labeled clips for research/education. It contains230violent/120nonviolent clips, with two camera views of115violent/60nonviolent acted scenes. Repository labels and matching label+filename define the175 scene clusters. Use all350 clips without retraining, threshold fitting, model selection, or choosing clips by model outcomes.
+
+Compare the frozen95% deployment policy with uniform square640FP32 and the original direct-stretch640FP32 path. Use three uniformly spaced frame indices from first to last frame of each clip, chosen before inference. This is sparse frame pooling, not a learned temporal recognizer or exhaustive event analysis. Predict both detectors with conf floor.001, NMS.7, max300; use maximum object/behavior box confidence per sampled frame. Object proxy/behavior clip scores are their maximum over sampled frames. OR score is maximum framewise maximum; AND score is maximum framewise minimum (same-frame co-occurrence). Fixed positive threshold.5; report TP/FP/FN/TN, precision/recall/F1/balanced accuracy and ROC-AUC by provided clip label, camera, and pooled views. Object proxy does not redefine ground-truth violence.
+
+Paired configuration differences are resampled by175 acted-scene clusters, keeping both camera views together;400 replicates, seed20261003. This addresses known two-camera duplication, not unknown actor/session dependence. No numerical ranking against differently trained published architectures. No footage or participant photos in the manuscript/submission archive.
+
+The benchmark is external to the supplied archives and is not used for training or policy tuning. Source-level overlap with all original training imagery cannot be certified without a complete original source manifest; state this limitation. Clip screening is distinct from bounding-box AP, event localization, false alarms per camera-hour, and camera deployment validation.
+
+Each clip/configuration produces an atomic result file. Downloads are pinned to an author-repository revision, size and Git blob hash checked, with SHA256 manifest; partial files restart. Run GPU inference only after the primary full-output timing study finishes so acquisition/inference does not contaminate timing trials.

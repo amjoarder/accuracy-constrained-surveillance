@@ -1,0 +1,81 @@
+{
+  "object": {
+    "reference": {
+      "task": "object",
+      "policy": "reference",
+      "configuration": "640_fp32",
+      "images": 425,
+      "instances": 519,
+      "metrics": {
+        "metrics/mAP50(B)": 0.7932117017809267,
+        "metrics/mAP50-95(B)": 0.5517991886682384
+      },
+      "checkpoint_sha256": "928fa380e809701d5dd96728c8da3cf4d928d53c8a800b2cd499f3c11102d936",
+      "completed_utc": "2026-10-02T21:17:09.530286+00:00",
+      "selection_unchanged": true,
+      "scope": "Post-freeze test diagnostic using native cv2 images and actual predictor preprocessing, pinned library IoU matching/AP; no output-stage extra object NMS."
+    },
+    "selected": {
+      "task": "object",
+      "policy": "selected",
+      "configuration": "640_rect_fp32",
+      "images": 425,
+      "instances": 519,
+      "metrics": {
+        "metrics/mAP50(B)": 0.7875716616126169,
+        "metrics/mAP50-95(B)": 0.5451623266446528
+      },
+      "checkpoint_sha256": "928fa380e809701d5dd96728c8da3cf4d928d53c8a800b2cd499f3c11102d936",
+      "completed_utc": "2026-10-02T21:17:36.654956+00:00",
+      "selection_unchanged": true,
+      "scope": "Post-freeze test diagnostic using native cv2 images and actual predictor preprocessing, pinned library IoU matching/AP; no output-stage extra object NMS."
+    },
+    "strict_100": {
+      "task": "object",
+      "policy": "strict_100",
+      "configuration": "480_fp32",
+      "images": 425,
+      "instances": 519,
+      "metrics": {
+        "metrics/mAP50(B)": 0.807968395877683,
+        "metrics/mAP50-95(B)": 0.5701185548803128
+      },
+      "checkpoint_sha256": "928fa380e809701d5dd96728c8da3cf4d928d53c8a800b2cd499f3c11102d936",
+      "completed_utc": "2026-10-03T13:13:58.674056+00:00",
+      "selection_unchanged": true,
+      "scope": "Post-freeze test diagnostic using native cv2 images and actual predictor preprocessing, pinned library IoU matching/AP; no output-stage extra object NMS."
+    }
+  },
+  "behavior": {
+    "reference": {
+      "task": "behavior",
+      "policy": "reference",
+      "configuration": "640_fp32",
+      "images": 115,
+      "instances": 69,
+      "metrics": {
+        "metrics/mAP50(B)": 0.813104248579812,
+        "metrics/mAP50-95(B)": 0.47244762189973305
+      },
+      "checkpoint_sha256": "e456a7f466700defeebe2df845b72a76a0e9545d575978f29b8168671ac4ec58",
+      "completed_utc": "2026-10-02T21:17:45.826414+00:00",
+      "selection_unchanged": true,
+      "scope": "Post-freeze test diagnostic using native cv2 images and actual predictor preprocessing, pinned library IoU matching/AP; no output-stage extra object NMS."
+    },
+    "selected": {
+      "task": "behavior",
+      "policy": "selected",
+      "configuration": "640_rect_fp32",
+      "images": 115,
+      "instances": 69,
+      "metrics": {
+        "metrics/mAP50(B)": 0.813104248579812,
+        "metrics/mAP50-95(B)": 0.47244762189973305
+      },
+      "checkpoint_sha256": "e456a7f466700defeebe2df845b72a76a0e9545d575978f29b8168671ac4ec58",
+      "completed_utc": "2026-10-02T21:17:54.800414+00:00",
+      "selection_unchanged": true,
+      "scope": "Post-freeze test diagnostic using native cv2 images and actual predictor preprocessing, pinned library IoU matching/AP; no output-stage extra object NMS."
+    }
+  }
+}

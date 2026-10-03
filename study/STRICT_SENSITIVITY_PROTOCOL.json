@@ -1,0 +1,23 @@
+{
+  "recorded_utc": "2026-10-03T13:08:19.760326+00:00",
+  "selection_frozen_utc": "2026-10-02T20:34:10.990729+00:00",
+  "primary_policy_unchanged": true,
+  "selected_sensitivity_retention": 1.0,
+  "policies": {
+    "strict_100": {
+      "object": "480_fp32",
+      "behavior": "640_rect_fp32",
+      "geometry": "letterbox"
+    },
+    "strict_control_640_fp32": {
+      "object": "640_fp32",
+      "behavior": "640_fp32",
+      "geometry": "letterbox"
+    }
+  },
+  "timing_repeats": 3,
+  "frames_per_repeat": 239,
+  "order_seed": 20261004,
+  "reason": "Directly measure the already-frozen strict-retention heterogeneous choice; add a contemporaneous control because original timing occurred in an earlier session. No new policy selection from test or benchmark results. Same full-output function/boundary.",
+  "run_script_sha256": "dabec9447427004b44bd3450dcba0023b4cd2cf985b112c29504540277a9173e"
+}

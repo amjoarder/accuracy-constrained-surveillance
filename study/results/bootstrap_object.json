@@ -1,0 +1,18 @@
+{
+  "configuration": "640_rect_fp32",
+  "baseline": "640_fp32",
+  "resamples": 400,
+  "seed": 20261003,
+  "images": 425,
+  "difference_AP50_percentage_points": -0.8034309182463728,
+  "difference_AP95_percentage_points": -0.8829905662969262,
+  "conditional_image_bootstrap_interval_AP50_pp": [
+    -2.025213671100158,
+    0.19229318860189165
+  ],
+  "conditional_image_bootstrap_interval_AP95_pp": [
+    -1.7608835067483433,
+    0.01574055230827706
+  ],
+  "interpretation": "Paired resampling of images with fixed per-image matches. Conditional image-set sensitivity only; not recording-independent population intervals or evidence that source leakage is absent."
+}

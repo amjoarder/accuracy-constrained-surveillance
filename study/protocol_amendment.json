@@ -1,0 +1,61 @@
+{
+  "recorded_utc": "2026-10-02T20:27:14.238763+00:00",
+  "before_policy_freeze": true,
+  "added_configurations": [
+    "640_rect_fp32",
+    "640_rect_fp16"
+  ],
+  "rectangular_padding": 0.0,
+  "reason": "Align rectangular validation shape with runtime minimum stride padding; add rectangular baselines before policy selection and new test access. Preserve all completed square trials.",
+  "configs": [
+    {
+      "id": "320_fp32",
+      "size": 320,
+      "half": false,
+      "rect": false
+    },
+    {
+      "id": "320_fp16",
+      "size": 320,
+      "half": true,
+      "rect": false
+    },
+    {
+      "id": "480_fp32",
+      "size": 480,
+      "half": false,
+      "rect": false
+    },
+    {
+      "id": "480_fp16",
+      "size": 480,
+      "half": true,
+      "rect": false
+    },
+    {
+      "id": "640_fp32",
+      "size": 640,
+      "half": false,
+      "rect": false
+    },
+    {
+      "id": "640_fp16",
+      "size": 640,
+      "half": true,
+      "rect": false
+    },
+    {
+      "id": "640_rect_fp32",
+      "size": 640,
+      "half": false,
+      "rect": true
+    },
+    {
+      "id": "640_rect_fp16",
+      "size": 640,
+      "half": true,
+      "rect": true
+    }
+  ],
+  "script_sha256": "f2e892726c08c5710d7b8f91b215a38c6118cbeffde8255632c6d8b2cffa3170"
+}

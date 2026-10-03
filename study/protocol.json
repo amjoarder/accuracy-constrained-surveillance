@@ -1,0 +1,63 @@
+{
+  "created_utc": "2026-10-02T20:00:55.921176+00:00",
+  "configs": [
+    {
+      "id": "320_fp32",
+      "size": 320,
+      "half": false
+    },
+    {
+      "id": "320_fp16",
+      "size": 320,
+      "half": true
+    },
+    {
+      "id": "480_fp32",
+      "size": 480,
+      "half": false
+    },
+    {
+      "id": "480_fp16",
+      "size": 480,
+      "half": true
+    },
+    {
+      "id": "640_fp32",
+      "size": 640,
+      "half": false
+    },
+    {
+      "id": "640_fp16",
+      "size": 640,
+      "half": true
+    }
+  ],
+  "primary_retention": 0.95,
+  "retention_sensitivity": [
+    0.9,
+    0.95,
+    0.975,
+    1.0
+  ],
+  "validation_selection_only": true,
+  "object_validation_exact_overlap_exclusion": true,
+  "accuracy_preprocessing": "Aspect-preserving square letterbox, batch1, rect=False, 0.001conf, 0.7NMS, 300maxdet, noTTA",
+  "fixed_threshold_analysis": {
+    "confidence": 0.5,
+    "matching_iou": 0.5
+  },
+  "accuracy_targets": "Bounding boxes in each branch; no incident intent labels and no pooled joint-event score",
+  "profile_repeats": 3,
+  "profile_trial_order_seed": 20261003,
+  "script_sha256": "c6dc518641fd3f62040ae80ae2a45ebd90345ec8f0fe99c20739dd8761b1bc87",
+  "policy_sha256": "8a75b9005f3f83ed13bef6b4dfd751335efda3f6b40f3b3213d4128b3884e4e7",
+  "runtime": {
+    "python": "3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:20:11) [MSC v.1938 64 bit (AMD64)]",
+    "torch": "2.6.0+cu124",
+    "ultralytics": "8.3.116",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce GTX 1650 Ti with Max-Q Design",
+    "opencv": "4.11.0",
+    "os": "Windows-11-10.0.26100-SP0"
+  }
+}

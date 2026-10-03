@@ -1,0 +1,1152 @@
+[
+  {
+    "image": "asset-8aab1de7acd5c3c1.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-03c8f740ddf457f7.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-c30dd7743620b74d.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-48b36927f7a6a73c.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-8c291df101273ea0.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-95c61bf2e3b146fc.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-dd2e15d004a961e3.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-7aa4aeb846f51b50.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-cc29959685e1314a.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-1eed64f58e1f1136.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-cc926dbc08447e82.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-542c6d20fcf460cb.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-10c9a69ce4876350.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-19624aafb1429783.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-793e7e30ec7e3659.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-1aac2440f203f105.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-3fab006c580cf7f5.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-2d8bfc93d805f551.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-ab4f5e0839d41821.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-1112cf2b4c7c3073.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-2944111c45eae1ba.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-a8b06b44ee5c0014.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-c91a87973d3d41e2.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-e792d85cd31654be.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-9e53d9521bbe9725.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-94693cbbd2b9bafe.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-56c86f3f65435419.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-2f4d4eef77f4808c.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-9a6f4b021d4899fd.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-32cb2d8c9bf1b802.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-73e8cecbdbec2036.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-067c1275171f110e.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-7f8576a368a30281.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-16f8afbd28d10cbb.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-dc1faf676be9829c.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-a86dd201ebc2c461.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-b528f6c1f6ed79b7.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-c377659aef7b6411.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-aa958997e6717961.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-388f2234b0c9f586.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-564ce09004cbf34a.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-55bc59a5bf0b5e26.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-6b17e6c0e0774965.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-e0c922054d7993c2.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-ef528ee1f65fd467.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-706145884ba62a48.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-298fbec2c4cdbb7f.jpg",
+    "targets": 0,
+    "predictions_at_05": 1,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-530465d32d56defc.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-8c86143e6ff9ec46.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-3a743f7f42ecfc61.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-6839a460c8450038.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-10c8d98f9d11bd72.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-ec2c2b2738ef1ab9.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-9566a5cfea12b9ce.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-f294b0a5e601050a.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-0425818928d6c26e.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-7106e17eb3cdeef8.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-48b0182c31c0e03d.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-d781ac923db339ef.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-d7fee9560e99ce99.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-573eae457410a3bd.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-5aff1ead742c3ffa.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-b6f9692cea4b5dd9.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-111e5715edc1aec8.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-7ab6e904f9971712.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-992e11f060de91a7.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-2726ba6f7510cd9b.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-4dcf7f254f3a0966.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-37500cffed226026.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-93e4dd1ddde079de.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-ef57ecd5d3045b67.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-335c41ed6a0439bd.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-87277277b0bb57af.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-f47e56275d4f63db.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-31f1052c90ebbbcc.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-3bd5842cade0aa03.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-d3fce8a7ff91ebde.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-143837561dd7faea.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-63c594683f1114dc.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-bbb5e118646bbd21.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-5954afb510ce422a.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-6f87930348df0f7b.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-c4d346c5cf19baec.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-7dc8b33026d46f42.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-39489f9e69c5be0f.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-524ad7986ade83a3.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-ed1c12a73a6a5d32.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-a1feba57cd132428.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-f5c223861a1aa17c.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-29fa3210a49cca37.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-248e5562391308cb.jpg",
+    "targets": 1,
+    "predictions_at_05": 2,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-471dba9b4aee1410.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-b2fe1f8c356f7315.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-fa6faa7ef8882246.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-736f44a9258e5a84.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-846072bc260435ab.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-029f547ef562d3df.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-43b5cd11da44cca3.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-3fb8c2deb769626a.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-5db277a4e48a4f7c.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-355293785cd35b41.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-62260700123227f1.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-85112ee488857a64.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-1ba2011cd274d69c.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-8bf3039a4cde2805.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-8c75a55994e6ab1b.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-7f9c8ccb44516d80.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-4b0ec7df2ee69e77.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-0a7e8403890f73fb.jpg",
+    "targets": 0,
+    "predictions_at_05": 1,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-6d68aada4efd9ade.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-efc433b5de12b31d.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-dbc89a7107e8533d.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-543bffec46811a0a.jpg",
+    "targets": 0,
+    "predictions_at_05": 0,
+    "background": true,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-02e96254e4afa730.jpg",
+    "targets": 1,
+    "predictions_at_05": 0,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  },
+  {
+    "image": "asset-3ed0667b12d9e0d0.jpg",
+    "targets": 1,
+    "predictions_at_05": 1,
+    "background": false,
+    "input_shape": [
+      640,
+      640
+    ]
+  }
+]
