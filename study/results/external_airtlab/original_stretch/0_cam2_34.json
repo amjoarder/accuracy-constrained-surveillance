@@ -1,0 +1,42 @@
+{
+  "repository_path": "violence-detection-dataset/non-violent/cam2/34.mp4",
+  "label": 0,
+  "camera": "cam2",
+  "scene": "0_34",
+  "policy": "original_stretch",
+  "settings": {
+    "object": "640_fp32",
+    "behavior": "640_fp32"
+  },
+  "video_sha256": "24040e7877ae042a968015dadad488b6a6f1a5bc064060629a411be118cf3902",
+  "frame_count": 162,
+  "decoded_shape": [
+    1080,
+    1920
+  ],
+  "samples": [
+    {
+      "frame": 0,
+      "object": 0.19174981117248535,
+      "behavior": 0.13379894196987152
+    },
+    {
+      "frame": 80,
+      "object": 0.05981678143143654,
+      "behavior": 0.0
+    },
+    {
+      "frame": 161,
+      "object": 0.10059448331594467,
+      "behavior": 0.555259644985199
+    }
+  ],
+  "scores": {
+    "object_proxy": 0.19174981117248535,
+    "behavior": 0.555259644985199,
+    "OR": 0.555259644985199,
+    "AND": 0.13379894196987152
+  },
+  "wall_seconds": 1.130529000000024,
+  "completed_utc": "2026-10-03T12:55:42.127368+00:00"
+}

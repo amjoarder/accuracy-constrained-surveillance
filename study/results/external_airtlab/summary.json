@@ -1,0 +1,546 @@
+{
+  "dataset": "AIRTLab",
+  "repository": "https://github.com/airtlab/A-Dataset-for-Automatic-Violence-Detection-in-Videos",
+  "revision": "1f7747e104301ccaa82ef5a2f6804b51ced1c398",
+  "clips": 350,
+  "positive_clips": 230,
+  "negative_clips": 120,
+  "acted_scene_clusters": 175,
+  "frames_per_clip": 3,
+  "policies": {
+    "reference": {
+      "object": "640_fp32",
+      "behavior": "640_fp32"
+    },
+    "selected": {
+      "object": "640_rect_fp32",
+      "behavior": "640_rect_fp32"
+    },
+    "original_stretch": {
+      "object": "640_fp32",
+      "behavior": "640_fp32"
+    }
+  },
+  "threshold": 0.5,
+  "no_training_or_benchmark_based_tuning": true,
+  "summaries": {
+    "reference": {
+      "all": {
+        "object_proxy": {
+          "TP": 31,
+          "FP": 10,
+          "FN": 199,
+          "TN": 110,
+          "precision": 0.7560975609756098,
+          "recall": 0.13478260869565217,
+          "F1": 0.22878228782287824,
+          "balanced_accuracy": 0.5257246376811594,
+          "accuracy": 0.40285714285714286,
+          "ROC_AUC": 0.6951811594202898,
+          "false_positive_fraction": 0.08333333333333333
+        },
+        "behavior": {
+          "TP": 66,
+          "FP": 42,
+          "FN": 164,
+          "TN": 78,
+          "precision": 0.6111111111111112,
+          "recall": 0.28695652173913044,
+          "F1": 0.3905325443786982,
+          "balanced_accuracy": 0.46847826086956523,
+          "accuracy": 0.4114285714285714,
+          "ROC_AUC": 0.43699275362318835,
+          "false_positive_fraction": 0.35
+        },
+        "OR": {
+          "TP": 83,
+          "FP": 50,
+          "FN": 147,
+          "TN": 70,
+          "precision": 0.6240601503759399,
+          "recall": 0.36086956521739133,
+          "F1": 0.4573002754820937,
+          "balanced_accuracy": 0.47210144927536235,
+          "accuracy": 0.43714285714285717,
+          "ROC_AUC": 0.5010507246376812,
+          "false_positive_fraction": 0.4166666666666667
+        },
+        "AND": {
+          "TP": 9,
+          "FP": 0,
+          "FN": 221,
+          "TN": 120,
+          "precision": 1.0,
+          "recall": 0.0391304347826087,
+          "F1": 0.07531380753138076,
+          "balanced_accuracy": 0.5195652173913043,
+          "accuracy": 0.36857142857142855,
+          "ROC_AUC": 0.6064855072463767,
+          "false_positive_fraction": 0.0
+        }
+      },
+      "by_camera": {
+        "cam1": {
+          "object_proxy": {
+            "TP": 12,
+            "FP": 3,
+            "FN": 103,
+            "TN": 57,
+            "precision": 0.8,
+            "recall": 0.10434782608695652,
+            "F1": 0.18461538461538463,
+            "balanced_accuracy": 0.5271739130434783,
+            "accuracy": 0.3942857142857143,
+            "ROC_AUC": 0.7244927536231884,
+            "false_positive_fraction": 0.05
+          },
+          "behavior": {
+            "TP": 38,
+            "FP": 26,
+            "FN": 77,
+            "TN": 34,
+            "precision": 0.59375,
+            "recall": 0.33043478260869563,
+            "F1": 0.4245810055865922,
+            "balanced_accuracy": 0.44855072463768114,
+            "accuracy": 0.4114285714285714,
+            "ROC_AUC": 0.37884057971014495,
+            "false_positive_fraction": 0.43333333333333335
+          },
+          "OR": {
+            "TP": 44,
+            "FP": 28,
+            "FN": 71,
+            "TN": 32,
+            "precision": 0.6111111111111112,
+            "recall": 0.3826086956521739,
+            "F1": 0.47058823529411764,
+            "balanced_accuracy": 0.4579710144927536,
+            "accuracy": 0.4342857142857143,
+            "ROC_AUC": 0.43376811594202896,
+            "false_positive_fraction": 0.4666666666666667
+          },
+          "AND": {
+            "TP": 6,
+            "FP": 0,
+            "FN": 109,
+            "TN": 60,
+            "precision": 1.0,
+            "recall": 0.05217391304347826,
+            "F1": 0.09917355371900827,
+            "balanced_accuracy": 0.5260869565217391,
+            "accuracy": 0.37714285714285717,
+            "ROC_AUC": 0.6297101449275362,
+            "false_positive_fraction": 0.0
+          }
+        },
+        "cam2": {
+          "object_proxy": {
+            "TP": 19,
+            "FP": 7,
+            "FN": 96,
+            "TN": 53,
+            "precision": 0.7307692307692307,
+            "recall": 0.16521739130434782,
+            "F1": 0.2695035460992908,
+            "balanced_accuracy": 0.5242753623188405,
+            "accuracy": 0.4114285714285714,
+            "ROC_AUC": 0.6684057971014492,
+            "false_positive_fraction": 0.11666666666666667
+          },
+          "behavior": {
+            "TP": 28,
+            "FP": 16,
+            "FN": 87,
+            "TN": 44,
+            "precision": 0.6363636363636364,
+            "recall": 0.24347826086956523,
+            "F1": 0.3522012578616352,
+            "balanced_accuracy": 0.48840579710144927,
+            "accuracy": 0.4114285714285714,
+            "ROC_AUC": 0.48724637681159416,
+            "false_positive_fraction": 0.26666666666666666
+          },
+          "OR": {
+            "TP": 39,
+            "FP": 22,
+            "FN": 76,
+            "TN": 38,
+            "precision": 0.639344262295082,
+            "recall": 0.3391304347826087,
+            "F1": 0.4431818181818182,
+            "balanced_accuracy": 0.486231884057971,
+            "accuracy": 0.44,
+            "ROC_AUC": 0.5733333333333334,
+            "false_positive_fraction": 0.36666666666666664
+          },
+          "AND": {
+            "TP": 3,
+            "FP": 0,
+            "FN": 112,
+            "TN": 60,
+            "precision": 1.0,
+            "recall": 0.02608695652173913,
+            "F1": 0.05084745762711865,
+            "balanced_accuracy": 0.5130434782608696,
+            "accuracy": 0.36,
+            "ROC_AUC": 0.5855072463768116,
+            "false_positive_fraction": 0.0
+          }
+        }
+      }
+    },
+    "selected": {
+      "all": {
+        "object_proxy": {
+          "TP": 25,
+          "FP": 8,
+          "FN": 205,
+          "TN": 112,
+          "precision": 0.7575757575757576,
+          "recall": 0.10869565217391304,
+          "F1": 0.19011406844106463,
+          "balanced_accuracy": 0.5210144927536232,
+          "accuracy": 0.3914285714285714,
+          "ROC_AUC": 0.6952173913043478,
+          "false_positive_fraction": 0.06666666666666667
+        },
+        "behavior": {
+          "TP": 81,
+          "FP": 46,
+          "FN": 149,
+          "TN": 74,
+          "precision": 0.6377952755905512,
+          "recall": 0.3521739130434783,
+          "F1": 0.453781512605042,
+          "balanced_accuracy": 0.48442028985507246,
+          "accuracy": 0.44285714285714284,
+          "ROC_AUC": 0.4680072463768115,
+          "false_positive_fraction": 0.38333333333333336
+        },
+        "OR": {
+          "TP": 93,
+          "FP": 53,
+          "FN": 137,
+          "TN": 67,
+          "precision": 0.636986301369863,
+          "recall": 0.4043478260869565,
+          "F1": 0.4946808510638298,
+          "balanced_accuracy": 0.48134057971014493,
+          "accuracy": 0.45714285714285713,
+          "ROC_AUC": 0.5015217391304347,
+          "false_positive_fraction": 0.44166666666666665
+        },
+        "AND": {
+          "TP": 7,
+          "FP": 0,
+          "FN": 223,
+          "TN": 120,
+          "precision": 1.0,
+          "recall": 0.030434782608695653,
+          "F1": 0.05907172995780591,
+          "balanced_accuracy": 0.5152173913043478,
+          "accuracy": 0.3628571428571429,
+          "ROC_AUC": 0.6253985507246377,
+          "false_positive_fraction": 0.0
+        }
+      },
+      "by_camera": {
+        "cam1": {
+          "object_proxy": {
+            "TP": 11,
+            "FP": 1,
+            "FN": 104,
+            "TN": 59,
+            "precision": 0.9166666666666666,
+            "recall": 0.09565217391304348,
+            "F1": 0.1732283464566929,
+            "balanced_accuracy": 0.5394927536231884,
+            "accuracy": 0.4,
+            "ROC_AUC": 0.7246376811594203,
+            "false_positive_fraction": 0.016666666666666666
+          },
+          "behavior": {
+            "TP": 50,
+            "FP": 32,
+            "FN": 65,
+            "TN": 28,
+            "precision": 0.6097560975609756,
+            "recall": 0.43478260869565216,
+            "F1": 0.5076142131979695,
+            "balanced_accuracy": 0.45072463768115945,
+            "accuracy": 0.44571428571428573,
+            "ROC_AUC": 0.4111594202898551,
+            "false_positive_fraction": 0.5333333333333333
+          },
+          "OR": {
+            "TP": 53,
+            "FP": 32,
+            "FN": 62,
+            "TN": 28,
+            "precision": 0.6235294117647059,
+            "recall": 0.4608695652173913,
+            "F1": 0.53,
+            "balanced_accuracy": 0.463768115942029,
+            "accuracy": 0.46285714285714286,
+            "ROC_AUC": 0.43478260869565216,
+            "false_positive_fraction": 0.5333333333333333
+          },
+          "AND": {
+            "TP": 5,
+            "FP": 0,
+            "FN": 110,
+            "TN": 60,
+            "precision": 1.0,
+            "recall": 0.043478260869565216,
+            "F1": 0.08333333333333333,
+            "balanced_accuracy": 0.5217391304347826,
+            "accuracy": 0.37142857142857144,
+            "ROC_AUC": 0.6685507246376812,
+            "false_positive_fraction": 0.0
+          }
+        },
+        "cam2": {
+          "object_proxy": {
+            "TP": 14,
+            "FP": 7,
+            "FN": 101,
+            "TN": 53,
+            "precision": 0.6666666666666666,
+            "recall": 0.12173913043478261,
+            "F1": 0.20588235294117646,
+            "balanced_accuracy": 0.5025362318840579,
+            "accuracy": 0.38285714285714284,
+            "ROC_AUC": 0.6673913043478261,
+            "false_positive_fraction": 0.11666666666666667
+          },
+          "behavior": {
+            "TP": 31,
+            "FP": 14,
+            "FN": 84,
+            "TN": 46,
+            "precision": 0.6888888888888889,
+            "recall": 0.26956521739130435,
+            "F1": 0.3875,
+            "balanced_accuracy": 0.5181159420289856,
+            "accuracy": 0.44,
+            "ROC_AUC": 0.5182608695652173,
+            "false_positive_fraction": 0.23333333333333334
+          },
+          "OR": {
+            "TP": 40,
+            "FP": 21,
+            "FN": 75,
+            "TN": 39,
+            "precision": 0.6557377049180327,
+            "recall": 0.34782608695652173,
+            "F1": 0.45454545454545453,
+            "balanced_accuracy": 0.4989130434782609,
+            "accuracy": 0.4514285714285714,
+            "ROC_AUC": 0.5781159420289856,
+            "false_positive_fraction": 0.35
+          },
+          "AND": {
+            "TP": 2,
+            "FP": 0,
+            "FN": 113,
+            "TN": 60,
+            "precision": 1.0,
+            "recall": 0.017391304347826087,
+            "F1": 0.03418803418803419,
+            "balanced_accuracy": 0.508695652173913,
+            "accuracy": 0.35428571428571426,
+            "ROC_AUC": 0.5892753623188406,
+            "false_positive_fraction": 0.0
+          }
+        }
+      }
+    },
+    "original_stretch": {
+      "all": {
+        "object_proxy": {
+          "TP": 44,
+          "FP": 6,
+          "FN": 186,
+          "TN": 114,
+          "precision": 0.88,
+          "recall": 0.19130434782608696,
+          "F1": 0.3142857142857143,
+          "balanced_accuracy": 0.5706521739130435,
+          "accuracy": 0.4514285714285714,
+          "ROC_AUC": 0.7059057971014493,
+          "false_positive_fraction": 0.05
+        },
+        "behavior": {
+          "TP": 88,
+          "FP": 52,
+          "FN": 142,
+          "TN": 68,
+          "precision": 0.6285714285714286,
+          "recall": 0.3826086956521739,
+          "F1": 0.4756756756756757,
+          "balanced_accuracy": 0.4746376811594203,
+          "accuracy": 0.44571428571428573,
+          "ROC_AUC": 0.48152173913043483,
+          "false_positive_fraction": 0.43333333333333335
+        },
+        "OR": {
+          "TP": 118,
+          "FP": 56,
+          "FN": 112,
+          "TN": 64,
+          "precision": 0.6781609195402298,
+          "recall": 0.5130434782608696,
+          "F1": 0.5841584158415841,
+          "balanced_accuracy": 0.5231884057971015,
+          "accuracy": 0.52,
+          "ROC_AUC": 0.546268115942029,
+          "false_positive_fraction": 0.4666666666666667
+        },
+        "AND": {
+          "TP": 6,
+          "FP": 2,
+          "FN": 224,
+          "TN": 118,
+          "precision": 0.75,
+          "recall": 0.02608695652173913,
+          "F1": 0.05042016806722689,
+          "balanced_accuracy": 0.5047101449275362,
+          "accuracy": 0.35428571428571426,
+          "ROC_AUC": 0.6035144927536232,
+          "false_positive_fraction": 0.016666666666666666
+        }
+      },
+      "by_camera": {
+        "cam1": {
+          "object_proxy": {
+            "TP": 24,
+            "FP": 2,
+            "FN": 91,
+            "TN": 58,
+            "precision": 0.9230769230769231,
+            "recall": 0.20869565217391303,
+            "F1": 0.3404255319148936,
+            "balanced_accuracy": 0.5876811594202899,
+            "accuracy": 0.4685714285714286,
+            "ROC_AUC": 0.7288405797101448,
+            "false_positive_fraction": 0.03333333333333333
+          },
+          "behavior": {
+            "TP": 38,
+            "FP": 25,
+            "FN": 77,
+            "TN": 35,
+            "precision": 0.6031746031746031,
+            "recall": 0.33043478260869563,
+            "F1": 0.42696629213483145,
+            "balanced_accuracy": 0.4568840579710145,
+            "accuracy": 0.41714285714285715,
+            "ROC_AUC": 0.45014492753623186,
+            "false_positive_fraction": 0.4166666666666667
+          },
+          "OR": {
+            "TP": 54,
+            "FP": 25,
+            "FN": 61,
+            "TN": 35,
+            "precision": 0.6835443037974683,
+            "recall": 0.46956521739130436,
+            "F1": 0.5567010309278351,
+            "balanced_accuracy": 0.5264492753623189,
+            "accuracy": 0.5085714285714286,
+            "ROC_AUC": 0.5430434782608695,
+            "false_positive_fraction": 0.4166666666666667
+          },
+          "AND": {
+            "TP": 3,
+            "FP": 2,
+            "FN": 112,
+            "TN": 58,
+            "precision": 0.6,
+            "recall": 0.02608695652173913,
+            "F1": 0.05,
+            "balanced_accuracy": 0.4963768115942029,
+            "accuracy": 0.3485714285714286,
+            "ROC_AUC": 0.6233333333333333,
+            "false_positive_fraction": 0.03333333333333333
+          }
+        },
+        "cam2": {
+          "object_proxy": {
+            "TP": 20,
+            "FP": 4,
+            "FN": 95,
+            "TN": 56,
+            "precision": 0.8333333333333334,
+            "recall": 0.17391304347826086,
+            "F1": 0.28776978417266186,
+            "balanced_accuracy": 0.5536231884057972,
+            "accuracy": 0.4342857142857143,
+            "ROC_AUC": 0.6823188405797102,
+            "false_positive_fraction": 0.06666666666666667
+          },
+          "behavior": {
+            "TP": 50,
+            "FP": 27,
+            "FN": 65,
+            "TN": 33,
+            "precision": 0.6493506493506493,
+            "recall": 0.43478260869565216,
+            "F1": 0.5208333333333334,
+            "balanced_accuracy": 0.4923913043478261,
+            "accuracy": 0.4742857142857143,
+            "ROC_AUC": 0.5140579710144927,
+            "false_positive_fraction": 0.45
+          },
+          "OR": {
+            "TP": 64,
+            "FP": 31,
+            "FN": 51,
+            "TN": 29,
+            "precision": 0.6736842105263158,
+            "recall": 0.5565217391304348,
+            "F1": 0.6095238095238096,
+            "balanced_accuracy": 0.519927536231884,
+            "accuracy": 0.5314285714285715,
+            "ROC_AUC": 0.5540579710144928,
+            "false_positive_fraction": 0.5166666666666667
+          },
+          "AND": {
+            "TP": 3,
+            "FP": 0,
+            "FN": 112,
+            "TN": 60,
+            "precision": 1.0,
+            "recall": 0.02608695652173913,
+            "F1": 0.05084745762711865,
+            "balanced_accuracy": 0.5130434782608696,
+            "accuracy": 0.36,
+            "ROC_AUC": 0.5869565217391304,
+            "false_positive_fraction": 0.0
+          }
+        }
+      }
+    }
+  },
+  "paired_scene_cluster_bootstrap_balanced_accuracy_difference_pp": {
+    "object_proxy": [
+      -2.2919272264980783,
+      1.382575757575756
+    ],
+    "behavior": [
+      -2.310422549436085,
+      5.588482433977992
+    ],
+    "OR": [
+      -3.0050788384361535,
+      4.944121990555427
+    ],
+    "AND": [
+      -1.5628519144144142,
+      0.4548141891891915
+    ]
+  },
+  "bootstrap_replicates": 400,
+  "limitations": "Sparse frame-pooled clip screening, not learned temporal recognition, event localization, or camera-hour false alarms. Known paired camera views are clustered; unknown actor/session dependence and original training-source overlap remain possible. Object proxy does not define violent ground truth."
+}

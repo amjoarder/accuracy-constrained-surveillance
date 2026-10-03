@@ -1,0 +1,42 @@
+{
+  "repository_path": "violence-detection-dataset/violent/cam1/94.mp4",
+  "label": 1,
+  "camera": "cam1",
+  "scene": "1_94",
+  "policy": "selected",
+  "settings": {
+    "object": "640_rect_fp32",
+    "behavior": "640_rect_fp32"
+  },
+  "video_sha256": "bbe9e3c6deeb21d8b120cdfe31dd57f27cd3deba80f17ef7d7736f145da9adb1",
+  "frame_count": 124,
+  "decoded_shape": [
+    1080,
+    1920
+  ],
+  "samples": [
+    {
+      "frame": 0,
+      "object": 0.16637851297855377,
+      "behavior": 0.08788052201271057
+    },
+    {
+      "frame": 62,
+      "object": 0.3386877477169037,
+      "behavior": 0.6285980343818665
+    },
+    {
+      "frame": 123,
+      "object": 0.09095965325832367,
+      "behavior": 0.010314329527318478
+    }
+  ],
+  "scores": {
+    "object_proxy": 0.3386877477169037,
+    "behavior": 0.6285980343818665,
+    "OR": 0.6285980343818665,
+    "AND": 0.3386877477169037
+  },
+  "wall_seconds": 1.0005020999999488,
+  "completed_utc": "2026-10-03T12:51:22.633155+00:00"
+}
