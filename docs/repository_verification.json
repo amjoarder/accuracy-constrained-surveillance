@@ -1,0 +1,78 @@
+{
+  "file_types_checked": {
+    "json": 1183,
+    "npz": 37,
+    "pdf": 4,
+    "python": 14
+  },
+  "all_python_modules_imported": [
+    "analyze.py",
+    "bootstrap_inputs.py",
+    "check_geometry.py",
+    "download_external.py",
+    "evaluate_external.py",
+    "native_predictor.py",
+    "policy.py",
+    "profile_strict.py",
+    "reproduce_supplement.py",
+    "run_study.py",
+    "test_checkpoint.py",
+    "test_policy.py",
+    "test_portability.py",
+    "verify_repository.py"
+  ],
+  "CLI_help_checked": [
+    "run_study.py",
+    "bootstrap_inputs.py",
+    "analyze.py",
+    "check_geometry.py",
+    "download_external.py",
+    "evaluate_external.py",
+    "native_predictor.py",
+    "profile_strict.py",
+    "reproduce_supplement.py",
+    "test_policy.py",
+    "test_checkpoint.py",
+    "test_portability.py",
+    "verify_repository.py"
+  ],
+  "unit_tests_passed": 8,
+  "AP_trials_recomputed": 37,
+  "timing_summaries_recomputed": 9,
+  "external_prediction_records_checked": 1050,
+  "geometry_images_checked": 1627,
+  "external_video_blob_hashes_verified": 350,
+  "analysis_recomputed_and_identical": true,
+  "original_prediction_arrays_unchanged": true,
+  "live_prediction_smoke_checks": [
+    {
+      "task": "object",
+      "rect": false,
+      "predictions": 61,
+      "passed": true
+    },
+    {
+      "task": "object",
+      "rect": true,
+      "predictions": 63,
+      "passed": true
+    },
+    {
+      "task": "behavior",
+      "rect": false,
+      "predictions": 2,
+      "passed": true
+    },
+    {
+      "task": "behavior",
+      "rect": true,
+      "predictions": 2,
+      "passed": true
+    }
+  ],
+  "bootstrap_extraction_fixture_passed": true,
+  "external_summaries_recomputed_and_identical": true,
+  "full_historical_GPU_grid_and_timing_not_rerun": true,
+  "raw_inputs_not_public": true,
+  "release_file_checksums_verified": 1251
+}

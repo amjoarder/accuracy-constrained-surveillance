@@ -8,11 +8,14 @@ Corresponding author: Jubayer Al Mahmud (ja.mahmud@just.edu.bd). The manuscript 
 
 ```bash
 python -m pip install -r requirements-numerical.txt
+python study/verify_repository.py
 python study/reproduce_supplement.py
+python study/check_geometry.py
 python -m unittest discover -s study -p test_policy.py
+python -m unittest discover -s study -p test_portability.py
 ```
 
-The checker independently recomputes 37 AP trials, nine complete-output throughput summaries and 1,050 external clip/policy records. No GPU, images, model weights or video downloads are needed. GitHub Actions runs these checks on Linux and Windows.
+The checker independently recomputes 37 AP trials, nine complete-output throughput summaries and 1,050 external clip/policy records. Geometry is checked for 1,627 images using published native dimensions. No GPU, images, model weights or video downloads are needed. GitHub Actions runs file integrity, numerical, geometry and portability checks on Linux and Windows. See [the full repository recheck](docs/REPOSITORY_VERIFICATION.md) for coverage and limitations.
 
 ## Main observations
 

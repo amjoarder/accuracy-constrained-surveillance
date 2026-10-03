@@ -15,6 +15,9 @@ def scores_summary(records):
  return out
 
 def main():
+ import argparse
+ parser=argparse.ArgumentParser(description=__doc__ or 'Research utility; see reproduction instructions for inputs.')
+ parser.parse_args()
  assert (HERE/'external_manifest.json').exists()
  assert len(list((RESULT/'full_profile').rglob('complete.json')))>=21,'Finish primary timing before external inference'
  selected=json.loads((RESULT/'selection.json').read_text())['primary'];configs={c['id']:c for c in CONFIGS}

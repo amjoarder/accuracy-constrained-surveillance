@@ -9,4 +9,6 @@ __pycache__/
 *.jpeg
 /study/external_airtlab/
 /study/data/
+/study/state.json
+/study/*.log
 

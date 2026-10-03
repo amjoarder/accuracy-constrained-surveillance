@@ -12,6 +12,10 @@ from ultralytics.utils.metrics import ap_per_class
 from run_study import ROOT,HERE,RESULT,atomic,state,CONFIGS,now,sha
 
 def main():
+ import argparse
+ parser=argparse.ArgumentParser(description=__doc__ or 'Research utility; see reproduction instructions for inputs.')
+ parser.add_argument('--include-strict',action='store_true')
+ parser.parse_args()
  assert len(list((RESULT/'full_profile').rglob('complete.json')))>=21
  pair=json.loads((RESULT/'selection.json').read_text())['primary'];configs={c['id']:c for c in CONFIGS};summary={}
  for task in ['object','behavior']:

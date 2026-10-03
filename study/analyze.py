@@ -37,6 +37,9 @@ def paired_interval(task,selected,reps=400):
  return {'configuration':selected,'baseline':'640_fp32','resamples':reps,'seed':20261003,'images':n,'difference_AP50_percentage_points':float(100*(estimates[1][0]-estimates[0][0])),'difference_AP95_percentage_points':float(100*(estimates[1][1]-estimates[0][1])),'conditional_image_bootstrap_interval_AP50_pp':(100*np.percentile(np.array(differences)[:,0],[2.5,97.5])).tolist(),'conditional_image_bootstrap_interval_AP95_pp':(100*np.percentile(np.array(differences)[:,1],[2.5,97.5])).tolist(),'interpretation':'Paired resampling of images with fixed per-image matches. Conditional image-set sensitivity only; not recording-independent population intervals or evidence that source leakage is absent.'}
 
 def main():
+ import argparse
+ parser=argparse.ArgumentParser(description=__doc__ or 'Research utility; see reproduction instructions for inputs.')
+ parser.parse_args()
  state('analysis','Aggregating completed accuracy/timing trials and conditional image-resampling sensitivity')
  selection=json.loads((RESULT/'selection.json').read_text());accuracy={};cost={};full={}
  for task in ['object','behavior']:
