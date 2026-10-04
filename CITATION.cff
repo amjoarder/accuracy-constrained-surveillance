@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Please cite the accompanying manuscript when available; this is the research software record."
 type: software
 title: "Accuracy-Constrained Deployment of Object and Behavior Detectors for Video Surveillance: research code and numerical records"
-version: 1.0.1
-date-released: 2026-10-03
+version: 1.0.2
+date-released: 2026-10-04
 repository-code: "https://github.com/amjoarder/accuracy-constrained-surveillance"
 authors:
   - family-names: "Joarder"

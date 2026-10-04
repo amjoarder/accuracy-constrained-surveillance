@@ -1,0 +1,5 @@
+Object training:
+yolo detect train data=data.yaml model=yolo11l.pt epochs=1000 patience=200 freeze=20 cos_lr=True
+
+Behavior training:
+yolo detect train model=yolo11l.pt data=data.yaml epochs=1200 patience=300 freeze=20 cos_lr=True

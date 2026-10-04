@@ -1,9 +1,9 @@
 {
   "file_types_checked": {
-    "json": 1183,
+    "json": 1184,
     "npz": 37,
     "pdf": 4,
-    "python": 14
+    "python": 15
   },
   "all_python_modules_imported": [
     "analyze.py",
@@ -19,7 +19,8 @@
     "test_checkpoint.py",
     "test_policy.py",
     "test_portability.py",
-    "verify_repository.py"
+    "verify_repository.py",
+    "test_training_records.py"
   ],
   "CLI_help_checked": [
     "run_study.py",
@@ -36,7 +37,7 @@
     "test_portability.py",
     "verify_repository.py"
   ],
-  "unit_tests_passed": 8,
+  "unit_tests_passed": 9,
   "AP_trials_recomputed": 37,
   "timing_summaries_recomputed": 9,
   "external_prediction_records_checked": 1050,
@@ -74,5 +75,9 @@
   "external_summaries_recomputed_and_identical": true,
   "full_historical_GPU_grid_and_timing_not_rerun": true,
   "raw_inputs_not_public": true,
-  "release_file_checksums_verified": 1251
+  "release_file_checksums_verified": 1259,
+  "version": "1.0.2",
+  "lightweight_CI_tests": 8,
+  "prior_training_records_verified": true,
+  "verification_scope_note": "Original broader inference checks retained from v1.0.1; v1.0.2 rechecks release integrity, numeric reproduction, geometry and nine tests including original training records."
 }

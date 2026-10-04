@@ -11,3 +11,8 @@ Runtime originally used Python 3.12.3, NumPy 1.26.4, PyTorch 2.6.0+cu124, Ultral
 Run `python study/check_geometry.py` to verify rectangular input shapes from published native dimensions without source images. It leaves published records unchanged unless --output is specified. Run `python study/download_external.py --verify-only --destination PATH` to check an existing pinned AIRTLab acquisition without downloads. The download destination must contain the original repository-relative video paths. All acquisition/inference utilities provide --help; importing them does not start downloads, model inference or profiling.
 
 `analyze.py` requires the full inference dependencies and recomputes summary files in its adjacent results directory. To preserve the public release, execute it in a separate copy of study/. Native-predictor and strict-profile scripts require prepared raw inputs even when success markers are available. For exact historical bootstrap regeneration use the original NumPy 1.26.4 environment; the portable AP checker instead consumes the frozen confidence ranking. The checkpoint lock test requires the full environment, and is skipped on non-Windows platforms.
+
+
+## Prior author training
+
+The deployment evaluation reuses the authors' previously fine-tuned object and behavior checkpoints with fixed weights. Original training arguments, complete epoch logs, commands and checkpoint identities are provided in study/training; see DATASET_AND_TRAINING.md. These records are historical evidence, and the training runs were not repeated during revision. Verify them with `python -m unittest discover -s study -p test_training_records.py`.
